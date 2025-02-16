@@ -34,6 +34,10 @@ Sending method: cash pick up
 ![](Gambia-04.jpg)
 ![](Gambia-05.jpg)
 
+![Direct link](qrcode.png)  <br>
+Direct Link
+<br>
+[Paypal fundraiser](https://www.paypal.com/pools/c/9cmXqFEHqW)
 
  <a href="mailto:nateguimondart@gmail.com?subject=Feedback%20on%
  20Gameified%20Altruism">
