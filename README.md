@@ -1,6 +1,6 @@
 # Epistemological Experiments
 
-Hunger is the silent cry of a thousand souls who go unnoticed, their needs ignored in a world overflowing with plenty. Life is sad for uis
+Hunger is the silent cry of a thousand souls who go unnoticed, their needs ignored in a world overflowing with plenty. Life is sad for us.
 
 No child should know the hollow feeling of an empty stomach, yet across the world, too many faces wear this same sad expression
 
