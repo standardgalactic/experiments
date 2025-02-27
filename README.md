@@ -1,5 +1,11 @@
 # Epistemological Experiments
 
+Hunger is the silent cry of a thousand souls who go unnoticed, their needs ignored in a world overflowing with plenty. Life is sad for uis
+
+No child should know the hollow feeling of an empty stomach, yet across the world, too many faces wear this same sad expression
+
+![](Gambia-00.jpg) 
+
 ## Gameified Altruism
 
 Can you kindly help us buy some food
