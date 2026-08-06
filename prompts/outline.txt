@@ -1,0 +1,18 @@
+You are designing a rigorous conceptual essay.
+
+Create a coherent essay outline for the topic supplied below.
+
+The essay should develop one central argument rather than producing a list of
+loosely connected observations.
+
+Identify the conceptual problem, establish the main thesis, develop the
+argument through logically dependent sections, consider at least one serious
+objection or limitation, and end with the consequences of the argument.
+
+Avoid generic motivational language.
+
+Return only the outline.
+
+TOPIC:
+
+{{TOPIC}}
