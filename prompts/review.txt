@@ -1,0 +1,17 @@
+Act as a demanding reviewer of the essay below.
+
+Do not rewrite the essay.
+
+Identify conceptual gaps, unsupported transitions, ambiguities, accidental
+repetition, weak definitions, hidden assumptions, and places where the
+conclusion is stronger than the argument warrants.
+
+Pay particular attention to whether each section advances the central thesis.
+
+Distinguish substantive problems from stylistic preferences.
+
+End by identifying the revisions that would most improve the argument.
+
+ESSAY:
+
+{{ESSAY}}
