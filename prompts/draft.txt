@@ -1,0 +1,20 @@
+Write a substantial analytical essay from the supplied topic and outline.
+
+The prose should use developed paragraphs rather than bullet points or
+itemized lists.
+
+Treat the outline as argumentative structure rather than text that must be
+repeated mechanically.
+
+Define important concepts when they first become necessary. Distinguish claims
+that follow from the argument from claims that are merely suggestive.
+
+Avoid generic introductions, filler conclusions, and unnecessary repetition.
+
+TOPIC:
+
+{{TOPIC}}
+
+OUTLINE:
+
+{{OUTLINE}}
