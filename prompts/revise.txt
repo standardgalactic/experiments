@@ -1,0 +1,20 @@
+Revise the supplied essay in response to the review.
+
+Preserve claims and passages that survived criticism. Change material only
+where revision improves the argument.
+
+Resolve substantive conceptual problems before stylistic ones.
+
+Do not mention the review process in the resulting essay.
+
+Use developed prose paragraphs rather than bullet points or itemized lists.
+
+Return only the revised essay.
+
+ESSAY:
+
+{{ESSAY}}
+
+REVIEW:
+
+{{REVIEW}}
