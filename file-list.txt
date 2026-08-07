@@ -1,0 +1,49 @@
+.
+├── README.md
+├── compare-models.sh
+├── essay-pipeline.sh
+├── file-list.txt
+├── granite-essay.sh
+├── logs
+├── output
+│   ├── why-admissibility-is-a-stronger-concept-than-optimization-for-understanding-persistent-systems
+│   │   ├── draft.md
+│   │   ├── essay.md
+│   │   ├── outline.md
+│   │   ├── review.md
+│   │   └── topic.txt
+│   ├── why-continuation-should-be-treated-as-a-property-of-trajectories-rather-than-states
+│   │   ├── draft.md
+│   │   ├── essay.md
+│   │   ├── outline.md
+│   │   ├── review.md
+│   │   └── topic.txt
+│   ├── why-repair-that-eliminates-difference-can-be-a-form-of-system-failure
+│   │   ├── draft.md
+│   │   ├── essay.md
+│   │   ├── outline.md
+│   │   ├── review.md
+│   │   └── topic.txt
+│   └── why-technological-capability-should-diffuse-rather-than-merely-accumulate
+│       ├── draft.md
+│       ├── essay.md
+│       ├── outline.md
+│       ├── review.md
+│       └── topic.txt
+├── output.txt
+├── prompts
+│   ├── draft.txt
+│   ├── outline.txt
+│   ├── review.txt
+│   └── revise.txt
+├── review-essay.sh
+├── scripts
+│   ├── __pycache__
+│   │   └── render-prompt.cpython-312.pyc
+│   ├── common.sh
+│   └── render-prompt.py
+├── test-models.sh
+├── test.sh
+└── three-essays.sh
+
+10 directories, 37 files
