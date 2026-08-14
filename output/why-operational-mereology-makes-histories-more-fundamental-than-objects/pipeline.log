@@ -1,0 +1,14 @@
+[2026-08-13 22:32:41] pipeline started: Why operational mereology makes histories more fundamental than objects (ROUNDS=2)
+[2026-08-13 22:32:41] outline: started with granite4.1:3b
+[2026-08-13 22:32:45] outline: complete (4s, 2497 bytes)
+[2026-08-13 22:32:46] draft: started with granite4.1:3b
+[2026-08-13 22:32:55] draft: complete (9s, 6141 bytes)
+[2026-08-13 22:32:55] review-1: started with granite4.1:8b
+[2026-08-13 22:33:15] review-1: complete (20s, 6009 bytes)
+[2026-08-13 22:33:15] revision-1: started with granite4.1:3b
+[2026-08-13 22:33:29] revision-1: complete (14s, 6159 bytes)
+[2026-08-13 22:33:29] review-2: started with granite4.1:8b
+[2026-08-13 22:33:46] review-2: complete (17s, 5083 bytes)
+[2026-08-13 22:33:46] revision-2: started with granite4.1:3b
+[2026-08-13 22:33:59] revision-2: complete (13s, 6159 bytes)
+[2026-08-13 22:33:59] pipeline complete: Why operational mereology makes histories more fundamental than objects (78s)

@@ -1,0 +1,14 @@
+[2026-08-13 22:28:55] pipeline started: Why commitment changes the future option space of a system (ROUNDS=2)
+[2026-08-13 22:28:55] outline: started with granite4.1:3b
+[2026-08-13 22:29:00] outline: complete (5s, 2754 bytes)
+[2026-08-13 22:29:00] draft: started with granite4.1:3b
+[2026-08-13 22:29:10] draft: complete (9s, 6343 bytes)
+[2026-08-13 22:29:10] review-1: started with granite4.1:8b
+[2026-08-13 22:29:27] review-1: complete (17s, 4703 bytes)
+[2026-08-13 22:29:27] revision-1: started with granite4.1:3b
+[2026-08-13 22:29:41] revision-1: complete (14s, 6351 bytes)
+[2026-08-13 22:29:41] review-2: started with granite4.1:8b
+[2026-08-13 22:30:00] review-2: complete (19s, 5631 bytes)
+[2026-08-13 22:30:00] revision-2: started with granite4.1:3b
+[2026-08-13 22:30:13] revision-2: complete (13s, 5914 bytes)
+[2026-08-13 22:30:13] pipeline complete: Why commitment changes the future option space of a system (78s)

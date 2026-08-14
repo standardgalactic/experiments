@@ -1,0 +1,14 @@
+[2026-08-14 06:52:39] pipeline started: Why replay should be treated as a first-class property of computational infrastructure (ROUNDS=2)
+[2026-08-14 06:52:39] outline: started with granite4.1:3b
+[2026-08-14 06:52:44] outline: complete (5s, 2858 bytes)
+[2026-08-14 06:52:44] draft: started with granite4.1:3b
+[2026-08-14 06:52:57] draft: complete (13s, 8025 bytes)
+[2026-08-14 06:52:57] review-1: started with granite4.1:8b
+[2026-08-14 06:53:12] review-1: complete (15s, 3808 bytes)
+[2026-08-14 06:53:12] revision-1: started with granite4.1:3b
+[2026-08-14 06:53:28] revision-1: complete (16s, 8025 bytes)
+[2026-08-14 06:53:28] review-2: started with granite4.1:8b
+[2026-08-14 06:53:48] review-2: complete (20s, 5633 bytes)
+[2026-08-14 06:53:48] revision-2: started with granite4.1:3b
+[2026-08-14 06:54:04] revision-2: complete (16s, 7174 bytes)
+[2026-08-14 06:54:04] pipeline complete: Why replay should be treated as a first-class property of computational infrastructure (85s)

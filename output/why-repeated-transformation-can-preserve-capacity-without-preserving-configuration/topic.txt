@@ -1,0 +1,1 @@
+Why repeated transformation can preserve capacity without preserving configuration

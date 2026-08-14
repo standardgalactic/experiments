@@ -1,0 +1,14 @@
+[2026-08-14 07:02:55] pipeline started: Why microsecurity requires different assumptions from enterprise security (ROUNDS=2)
+[2026-08-14 07:02:55] outline: started with granite4.1:3b
+[2026-08-14 07:03:01] outline: complete (6s, 2744 bytes)
+[2026-08-14 07:03:01] draft: started with granite4.1:3b
+[2026-08-14 07:03:11] draft: complete (10s, 7142 bytes)
+[2026-08-14 07:03:11] review-1: started with granite4.1:8b
+[2026-08-14 07:03:28] review-1: complete (17s, 4606 bytes)
+[2026-08-14 07:03:28] revision-1: started with granite4.1:3b
+[2026-08-14 07:03:43] revision-1: complete (15s, 7146 bytes)
+[2026-08-14 07:03:43] review-2: started with granite4.1:8b
+[2026-08-14 07:04:01] review-2: complete (18s, 5390 bytes)
+[2026-08-14 07:04:01] revision-2: started with granite4.1:3b
+[2026-08-14 07:04:17] revision-2: complete (16s, 7134 bytes)
+[2026-08-14 07:04:17] pipeline complete: Why microsecurity requires different assumptions from enterprise security (82s)

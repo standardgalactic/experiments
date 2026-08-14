@@ -1,0 +1,1 @@
+Why a terminal state must be non-absorbing for cosmological recurrence to be meaningful

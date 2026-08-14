@@ -1,5 +1,6 @@
-output/*
 !output/.gitkeep
+
+*.done
 
 logs/*
 !logs/.gitkeep

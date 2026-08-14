@@ -1,0 +1,14 @@
+[2026-08-13 23:44:14] pipeline started: Why inaccessible information is different from destroyed information (ROUNDS=2)
+[2026-08-13 23:44:14] outline: started with granite4.1:3b
+[2026-08-13 23:44:18] outline: complete (4s, 2612 bytes)
+[2026-08-13 23:44:18] draft: started with granite4.1:3b
+[2026-08-13 23:44:26] draft: complete (8s, 6450 bytes)
+[2026-08-13 23:44:26] review-1: started with granite4.1:8b
+[2026-08-13 23:44:42] review-1: complete (16s, 4670 bytes)
+[2026-08-13 23:44:42] revision-1: started with granite4.1:3b
+[2026-08-13 23:44:55] revision-1: complete (13s, 6406 bytes)
+[2026-08-13 23:44:55] review-2: started with granite4.1:8b
+[2026-08-13 23:45:09] review-2: complete (14s, 4061 bytes)
+[2026-08-13 23:45:09] revision-2: started with granite4.1:3b
+[2026-08-13 23:45:23] revision-2: complete (14s, 6406 bytes)
+[2026-08-13 23:45:23] pipeline complete: Why inaccessible information is different from destroyed information (69s)

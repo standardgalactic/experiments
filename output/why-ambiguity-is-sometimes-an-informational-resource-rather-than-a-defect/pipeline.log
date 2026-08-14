@@ -1,0 +1,14 @@
+[2026-08-14 07:25:53] pipeline started: Why ambiguity is sometimes an informational resource rather than a defect (ROUNDS=2)
+[2026-08-14 07:25:53] outline: started with granite4.1:3b
+[2026-08-14 07:25:58] outline: complete (5s, 2919 bytes)
+[2026-08-14 07:25:58] draft: started with granite4.1:3b
+[2026-08-14 07:26:04] draft: complete (6s, 4651 bytes)
+[2026-08-14 07:26:04] review-1: started with granite4.1:8b
+[2026-08-14 07:26:22] review-1: complete (18s, 4583 bytes)
+[2026-08-14 07:26:22] revision-1: started with granite4.1:3b
+[2026-08-14 07:26:32] revision-1: complete (10s, 4651 bytes)
+[2026-08-14 07:26:33] review-2: started with granite4.1:8b
+[2026-08-14 07:26:52] review-2: complete (19s, 5032 bytes)
+[2026-08-14 07:26:52] revision-2: started with granite4.1:3b
+[2026-08-14 07:27:02] revision-2: complete (10s, 4651 bytes)
+[2026-08-14 07:27:02] pipeline complete: Why ambiguity is sometimes an informational resource rather than a defect (69s)

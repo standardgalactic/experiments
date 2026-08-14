@@ -1,0 +1,14 @@
+[2026-08-13 22:46:09] pipeline started: Why premature resolution can destroy information that slower processes would have preserved (ROUNDS=2)
+[2026-08-13 22:46:09] outline: started with granite4.1:3b
+[2026-08-13 22:46:15] outline: complete (6s, 3329 bytes)
+[2026-08-13 22:46:15] draft: started with granite4.1:3b
+[2026-08-13 22:46:24] draft: complete (9s, 4861 bytes)
+[2026-08-13 22:46:24] review-1: started with granite4.1:8b
+[2026-08-13 22:46:40] review-1: complete (16s, 4296 bytes)
+[2026-08-13 22:46:40] revision-1: started with granite4.1:3b
+[2026-08-13 22:46:52] revision-1: complete (12s, 4869 bytes)
+[2026-08-13 22:46:52] review-2: started with granite4.1:8b
+[2026-08-13 22:47:10] review-2: complete (18s, 4805 bytes)
+[2026-08-13 22:47:10] revision-2: started with granite4.1:3b
+[2026-08-13 22:47:21] revision-2: complete (11s, 4869 bytes)
+[2026-08-13 22:47:21] pipeline complete: Why premature resolution can destroy information that slower processes would have preserved (72s)

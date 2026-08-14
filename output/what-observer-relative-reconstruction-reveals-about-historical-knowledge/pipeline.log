@@ -1,0 +1,14 @@
+[2026-08-14 07:43:44] pipeline started: What observer-relative reconstruction reveals about historical knowledge (ROUNDS=2)
+[2026-08-14 07:43:44] outline: started with granite4.1:3b
+[2026-08-14 07:43:51] outline: complete (7s, 3470 bytes)
+[2026-08-14 07:43:51] draft: started with granite4.1:3b
+[2026-08-14 07:43:58] draft: complete (7s, 5122 bytes)
+[2026-08-14 07:43:58] review-1: started with granite4.1:8b
+[2026-08-14 07:44:16] review-1: complete (18s, 5133 bytes)
+[2026-08-14 07:44:16] revision-1: started with granite4.1:3b
+[2026-08-14 07:44:28] revision-1: complete (12s, 5124 bytes)
+[2026-08-14 07:44:28] review-2: started with granite4.1:8b
+[2026-08-14 07:44:46] review-2: complete (18s, 5075 bytes)
+[2026-08-14 07:44:46] revision-2: started with granite4.1:3b
+[2026-08-14 07:44:58] revision-2: complete (12s, 5124 bytes)
+[2026-08-14 07:44:58] pipeline complete: What observer-relative reconstruction reveals about historical knowledge (74s)

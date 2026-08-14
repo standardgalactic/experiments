@@ -1,0 +1,14 @@
+[2026-08-13 23:00:42] pipeline started: Why irreversible history can distinguish states that ordinary observation treats as equivalent (ROUNDS=2)
+[2026-08-13 23:00:42] outline: started with granite4.1:3b
+[2026-08-13 23:00:46] outline: complete (4s, 2646 bytes)
+[2026-08-13 23:00:46] draft: started with granite4.1:3b
+[2026-08-13 23:00:57] draft: complete (11s, 7236 bytes)
+[2026-08-13 23:00:57] review-1: started with granite4.1:8b
+[2026-08-13 23:01:16] review-1: complete (19s, 5782 bytes)
+[2026-08-13 23:01:16] revision-1: started with granite4.1:3b
+[2026-08-13 23:01:31] revision-1: complete (15s, 7229 bytes)
+[2026-08-13 23:01:31] review-2: started with granite4.1:8b
+[2026-08-13 23:01:46] review-2: complete (15s, 4106 bytes)
+[2026-08-13 23:01:46] revision-2: started with granite4.1:3b
+[2026-08-13 23:02:01] revision-2: complete (15s, 7227 bytes)
+[2026-08-13 23:02:01] pipeline complete: Why irreversible history can distinguish states that ordinary observation treats as equivalent (79s)

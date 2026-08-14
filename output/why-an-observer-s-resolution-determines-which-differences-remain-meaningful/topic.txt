@@ -1,0 +1,1 @@
+Why an observer's resolution determines which differences remain meaningful

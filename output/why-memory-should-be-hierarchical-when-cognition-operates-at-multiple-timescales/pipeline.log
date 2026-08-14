@@ -1,0 +1,14 @@
+[2026-08-13 22:51:07] pipeline started: Why memory should be hierarchical when cognition operates at multiple timescales (ROUNDS=2)
+[2026-08-13 22:51:07] outline: started with granite4.1:3b
+[2026-08-13 22:51:12] outline: complete (5s, 3187 bytes)
+[2026-08-13 22:51:12] draft: started with granite4.1:3b
+[2026-08-13 22:51:22] draft: complete (10s, 6100 bytes)
+[2026-08-13 22:51:22] review-1: started with granite4.1:8b
+[2026-08-13 22:51:37] review-1: complete (15s, 4161 bytes)
+[2026-08-13 22:51:37] revision-1: started with granite4.1:3b
+[2026-08-13 22:51:49] revision-1: complete (12s, 6100 bytes)
+[2026-08-13 22:51:49] review-2: started with granite4.1:8b
+[2026-08-13 22:52:11] review-2: complete (22s, 6214 bytes)
+[2026-08-13 22:52:11] revision-2: started with granite4.1:3b
+[2026-08-13 22:52:23] revision-2: complete (12s, 6088 bytes)
+[2026-08-13 22:52:23] pipeline complete: Why memory should be hierarchical when cognition operates at multiple timescales (76s)

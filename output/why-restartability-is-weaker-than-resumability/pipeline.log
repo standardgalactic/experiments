@@ -1,0 +1,14 @@
+[2026-08-14 06:56:35] pipeline started: Why restartability is weaker than resumability (ROUNDS=2)
+[2026-08-14 06:56:35] outline: started with granite4.1:3b
+[2026-08-14 06:56:42] outline: complete (7s, 4110 bytes)
+[2026-08-14 06:56:42] draft: started with granite4.1:3b
+[2026-08-14 06:56:53] draft: complete (11s, 7202 bytes)
+[2026-08-14 06:56:53] review-1: started with granite4.1:8b
+[2026-08-14 06:57:09] review-1: complete (16s, 4532 bytes)
+[2026-08-14 06:57:09] revision-1: started with granite4.1:3b
+[2026-08-14 06:57:23] revision-1: complete (14s, 6234 bytes)
+[2026-08-14 06:57:23] review-2: started with granite4.1:8b
+[2026-08-14 06:57:40] review-2: complete (17s, 5030 bytes)
+[2026-08-14 06:57:40] revision-2: started with granite4.1:3b
+[2026-08-14 06:57:52] revision-2: complete (12s, 6226 bytes)
+[2026-08-14 06:57:52] pipeline complete: Why restartability is weaker than resumability (77s)

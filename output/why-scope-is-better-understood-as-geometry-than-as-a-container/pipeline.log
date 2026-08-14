@@ -1,0 +1,14 @@
+[2026-08-13 22:33:59] pipeline started: Why scope is better understood as geometry than as a container (ROUNDS=2)
+[2026-08-13 22:33:59] outline: started with granite4.1:3b
+[2026-08-13 22:34:07] outline: complete (8s, 4028 bytes)
+[2026-08-13 22:34:07] draft: started with granite4.1:3b
+[2026-08-13 22:34:18] draft: complete (11s, 8174 bytes)
+[2026-08-13 22:34:18] review-1: started with granite4.1:8b
+[2026-08-13 22:34:40] review-1: complete (22s, 5873 bytes)
+[2026-08-13 22:34:40] revision-1: started with granite4.1:3b
+[2026-08-13 22:34:55] revision-1: complete (15s, 8150 bytes)
+[2026-08-13 22:34:55] review-2: started with granite4.1:8b
+[2026-08-13 22:35:11] review-2: complete (16s, 3908 bytes)
+[2026-08-13 22:35:11] revision-2: started with granite4.1:3b
+[2026-08-13 22:35:26] revision-2: complete (15s, 8150 bytes)
+[2026-08-13 22:35:26] pipeline complete: Why scope is better understood as geometry than as a container (87s)

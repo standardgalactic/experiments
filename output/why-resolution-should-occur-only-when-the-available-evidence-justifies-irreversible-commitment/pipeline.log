@@ -1,0 +1,14 @@
+[2026-08-13 22:53:27] pipeline started: Why resolution should occur only when the available evidence justifies irreversible commitment (ROUNDS=2)
+[2026-08-13 22:53:27] outline: started with granite4.1:3b
+[2026-08-13 22:53:34] outline: complete (7s, 2925 bytes)
+[2026-08-13 22:53:34] draft: started with granite4.1:3b
+[2026-08-13 22:53:40] draft: complete (6s, 5160 bytes)
+[2026-08-13 22:53:40] review-1: started with granite4.1:8b
+[2026-08-13 22:53:59] review-1: complete (19s, 5740 bytes)
+[2026-08-13 22:53:59] revision-1: started with granite4.1:3b
+[2026-08-13 22:54:11] revision-1: complete (12s, 5045 bytes)
+[2026-08-13 22:54:11] review-2: started with granite4.1:8b
+[2026-08-13 22:54:27] review-2: complete (16s, 4795 bytes)
+[2026-08-13 22:54:27] revision-2: started with granite4.1:3b
+[2026-08-13 22:54:37] revision-2: complete (10s, 4982 bytes)
+[2026-08-13 22:54:37] pipeline complete: Why resolution should occur only when the available evidence justifies irreversible commitment (70s)

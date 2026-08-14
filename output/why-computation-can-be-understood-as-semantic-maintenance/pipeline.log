@@ -1,0 +1,14 @@
+[2026-08-13 22:35:26] pipeline started: Why computation can be understood as semantic maintenance (ROUNDS=2)
+[2026-08-13 22:35:26] outline: started with granite4.1:3b
+[2026-08-13 22:35:31] outline: complete (5s, 2874 bytes)
+[2026-08-13 22:35:31] draft: started with granite4.1:3b
+[2026-08-13 22:35:43] draft: complete (12s, 8602 bytes)
+[2026-08-13 22:35:43] review-1: started with granite4.1:8b
+[2026-08-13 22:35:58] review-1: complete (15s, 3993 bytes)
+[2026-08-13 22:35:58] revision-1: started with granite4.1:3b
+[2026-08-13 22:36:14] revision-1: complete (16s, 8114 bytes)
+[2026-08-13 22:36:14] review-2: started with granite4.1:8b
+[2026-08-13 22:36:29] review-2: complete (15s, 4258 bytes)
+[2026-08-13 22:36:29] revision-2: started with granite4.1:3b
+[2026-08-13 22:36:44] revision-2: complete (15s, 8127 bytes)
+[2026-08-13 22:36:44] pipeline complete: Why computation can be understood as semantic maintenance (78s)

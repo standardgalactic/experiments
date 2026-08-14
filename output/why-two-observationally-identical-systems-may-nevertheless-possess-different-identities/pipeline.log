@@ -1,0 +1,14 @@
+[2026-08-13 22:59:22] pipeline started: Why two observationally identical systems may nevertheless possess different identities (ROUNDS=2)
+[2026-08-13 22:59:22] outline: started with granite4.1:3b
+[2026-08-13 22:59:27] outline: complete (5s, 3312 bytes)
+[2026-08-13 22:59:27] draft: started with granite4.1:3b
+[2026-08-13 22:59:37] draft: complete (10s, 6766 bytes)
+[2026-08-13 22:59:37] review-1: started with granite4.1:8b
+[2026-08-13 22:59:56] review-1: complete (19s, 5341 bytes)
+[2026-08-13 22:59:56] revision-1: started with granite4.1:3b
+[2026-08-13 23:00:09] revision-1: complete (13s, 6739 bytes)
+[2026-08-13 23:00:09] review-2: started with granite4.1:8b
+[2026-08-13 23:00:28] review-2: complete (19s, 5207 bytes)
+[2026-08-13 23:00:28] revision-2: started with granite4.1:3b
+[2026-08-13 23:00:41] revision-2: complete (13s, 6742 bytes)
+[2026-08-13 23:00:41] pipeline complete: Why two observationally identical systems may nevertheless possess different identities (79s)

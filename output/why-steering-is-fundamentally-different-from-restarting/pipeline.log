@@ -1,0 +1,14 @@
+[2026-08-13 22:47:21] pipeline started: Why steering is fundamentally different from restarting (ROUNDS=2)
+[2026-08-13 22:47:21] outline: started with granite4.1:3b
+[2026-08-13 22:47:26] outline: complete (5s, 2435 bytes)
+[2026-08-13 22:47:26] draft: started with granite4.1:3b
+[2026-08-13 22:47:33] draft: complete (7s, 4910 bytes)
+[2026-08-13 22:47:33] review-1: started with granite4.1:8b
+[2026-08-13 22:47:51] review-1: complete (18s, 5199 bytes)
+[2026-08-13 22:47:51] revision-1: started with granite4.1:3b
+[2026-08-13 22:48:03] revision-1: complete (12s, 4960 bytes)
+[2026-08-13 22:48:03] review-2: started with granite4.1:8b
+[2026-08-13 22:48:23] review-2: complete (20s, 5488 bytes)
+[2026-08-13 22:48:23] revision-2: started with granite4.1:3b
+[2026-08-13 22:48:35] revision-2: complete (12s, 4960 bytes)
+[2026-08-13 22:48:35] pipeline complete: Why steering is fundamentally different from restarting (74s)

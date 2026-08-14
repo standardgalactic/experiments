@@ -1,0 +1,14 @@
+[2026-08-13 22:49:52] pipeline started: Why monotonic continuation provides a better model of long-running cognition than isolated sessions (ROUNDS=2)
+[2026-08-13 22:49:52] outline: started with granite4.1:3b
+[2026-08-13 22:49:57] outline: complete (5s, 3143 bytes)
+[2026-08-13 22:49:57] draft: started with granite4.1:3b
+[2026-08-13 22:50:05] draft: complete (8s, 6473 bytes)
+[2026-08-13 22:50:05] review-1: started with granite4.1:8b
+[2026-08-13 22:50:22] review-1: complete (17s, 4674 bytes)
+[2026-08-13 22:50:22] revision-1: started with granite4.1:3b
+[2026-08-13 22:50:34] revision-1: complete (12s, 6441 bytes)
+[2026-08-13 22:50:34] review-2: started with granite4.1:8b
+[2026-08-13 22:50:55] review-2: complete (21s, 6051 bytes)
+[2026-08-13 22:50:55] revision-2: started with granite4.1:3b
+[2026-08-13 22:51:07] revision-2: complete (12s, 6530 bytes)
+[2026-08-13 22:51:07] pipeline complete: Why monotonic continuation provides a better model of long-running cognition than isolated sessions (75s)

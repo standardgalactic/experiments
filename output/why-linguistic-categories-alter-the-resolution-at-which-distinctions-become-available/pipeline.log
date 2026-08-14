@@ -1,0 +1,14 @@
+[2026-08-14 07:20:40] pipeline started: Why linguistic categories alter the resolution at which distinctions become available (ROUNDS=2)
+[2026-08-14 07:20:40] outline: started with granite4.1:3b
+[2026-08-14 07:20:44] outline: complete (4s, 2418 bytes)
+[2026-08-14 07:20:44] draft: started with granite4.1:3b
+[2026-08-14 07:20:53] draft: complete (9s, 6206 bytes)
+[2026-08-14 07:20:53] review-1: started with granite4.1:8b
+[2026-08-14 07:21:12] review-1: complete (19s, 5167 bytes)
+[2026-08-14 07:21:12] revision-1: started with granite4.1:3b
+[2026-08-14 07:21:23] revision-1: complete (11s, 5470 bytes)
+[2026-08-14 07:21:23] review-2: started with granite4.1:8b
+[2026-08-14 07:21:44] review-2: complete (21s, 5214 bytes)
+[2026-08-14 07:21:44] revision-2: started with granite4.1:3b
+[2026-08-14 07:21:54] revision-2: complete (10s, 5474 bytes)
+[2026-08-14 07:21:55] pipeline complete: Why linguistic categories alter the resolution at which distinctions become available (74s)

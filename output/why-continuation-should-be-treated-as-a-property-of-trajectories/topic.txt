@@ -1,0 +1,1 @@
+Why continuation should be treated as a property of trajectories

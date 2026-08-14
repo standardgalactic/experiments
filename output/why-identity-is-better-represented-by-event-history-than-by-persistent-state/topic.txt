@@ -1,0 +1,1 @@
+Why identity is better represented by event history than by persistent state

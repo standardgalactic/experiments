@@ -1,0 +1,14 @@
+[2026-08-14 06:23:07] pipeline started: Why computation after storage requires reconstructing the conditions under which stored symbols remain meaningful (ROUNDS=2)
+[2026-08-14 06:23:07] outline: started with granite4.1:3b
+[2026-08-14 06:23:12] outline: complete (5s, 3681 bytes)
+[2026-08-14 06:23:12] draft: started with granite4.1:3b
+[2026-08-14 06:23:23] draft: complete (11s, 8531 bytes)
+[2026-08-14 06:23:23] review-1: started with granite4.1:8b
+[2026-08-14 06:23:42] review-1: complete (19s, 5178 bytes)
+[2026-08-14 06:23:42] revision-1: started with granite4.1:3b
+[2026-08-14 06:23:56] revision-1: complete (14s, 8413 bytes)
+[2026-08-14 06:23:56] review-2: started with granite4.1:8b
+[2026-08-14 06:24:13] review-2: complete (17s, 4198 bytes)
+[2026-08-14 06:24:14] revision-2: started with granite4.1:3b
+[2026-08-14 06:24:28] revision-2: complete (14s, 8413 bytes)
+[2026-08-14 06:24:28] pipeline complete: Why computation after storage requires reconstructing the conditions under which stored symbols remain meaningful (81s)

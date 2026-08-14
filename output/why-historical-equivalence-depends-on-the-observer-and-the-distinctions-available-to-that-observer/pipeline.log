@@ -1,0 +1,14 @@
+[2026-08-13 23:04:39] pipeline started: Why historical equivalence depends on the observer and the distinctions available to that observer (ROUNDS=2)
+[2026-08-13 23:04:39] outline: started with granite4.1:3b
+[2026-08-13 23:04:43] outline: complete (4s, 2298 bytes)
+[2026-08-13 23:04:43] draft: started with granite4.1:3b
+[2026-08-13 23:04:53] draft: complete (10s, 6689 bytes)
+[2026-08-13 23:04:53] review-1: started with granite4.1:8b
+[2026-08-13 23:05:07] review-1: complete (14s, 3967 bytes)
+[2026-08-13 23:05:07] revision-1: started with granite4.1:3b
+[2026-08-13 23:05:22] revision-1: complete (15s, 6707 bytes)
+[2026-08-13 23:05:22] review-2: started with granite4.1:8b
+[2026-08-13 23:05:39] review-2: complete (17s, 5164 bytes)
+[2026-08-13 23:05:39] revision-2: started with granite4.1:3b
+[2026-08-13 23:05:52] revision-2: complete (13s, 6707 bytes)
+[2026-08-13 23:05:52] pipeline complete: Why historical equivalence depends on the observer and the distinctions available to that observer (73s)

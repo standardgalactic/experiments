@@ -1,0 +1,14 @@
+[2026-08-13 23:26:59] pipeline started: Why large-scale structure can preserve traces of primordial distinctions (ROUNDS=2)
+[2026-08-13 23:26:59] outline: started with granite4.1:3b
+[2026-08-13 23:27:03] outline: complete (4s, 2182 bytes)
+[2026-08-13 23:27:03] draft: started with granite4.1:3b
+[2026-08-13 23:27:14] draft: complete (11s, 7868 bytes)
+[2026-08-13 23:27:14] review-1: started with granite4.1:8b
+[2026-08-13 23:27:37] review-1: complete (23s, 6405 bytes)
+[2026-08-13 23:27:37] revision-1: started with granite4.1:3b
+[2026-08-13 23:27:48] revision-1: complete (11s, 4663 bytes)
+[2026-08-13 23:27:48] review-2: started with granite4.1:8b
+[2026-08-13 23:28:04] review-2: complete (16s, 4159 bytes)
+[2026-08-13 23:28:04] revision-2: started with granite4.1:3b
+[2026-08-13 23:28:14] revision-2: complete (10s, 4660 bytes)
+[2026-08-13 23:28:14] pipeline complete: Why large-scale structure can preserve traces of primordial distinctions (75s)

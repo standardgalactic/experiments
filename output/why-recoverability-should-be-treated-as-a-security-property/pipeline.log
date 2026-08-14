@@ -1,0 +1,14 @@
+[2026-08-14 07:14:33] pipeline started: Why recoverability should be treated as a security property (ROUNDS=2)
+[2026-08-14 07:14:33] outline: started with granite4.1:3b
+[2026-08-14 07:14:40] outline: complete (7s, 3848 bytes)
+[2026-08-14 07:14:40] draft: started with granite4.1:3b
+[2026-08-14 07:14:48] draft: complete (8s, 5674 bytes)
+[2026-08-14 07:14:48] review-1: started with granite4.1:8b
+[2026-08-14 07:15:09] review-1: complete (21s, 5917 bytes)
+[2026-08-14 07:15:09] revision-1: started with granite4.1:3b
+[2026-08-14 07:15:21] revision-1: complete (12s, 5678 bytes)
+[2026-08-14 07:15:21] review-2: started with granite4.1:8b
+[2026-08-14 07:15:41] review-2: complete (20s, 5579 bytes)
+[2026-08-14 07:15:41] revision-2: started with granite4.1:3b
+[2026-08-14 07:15:53] revision-2: complete (12s, 5678 bytes)
+[2026-08-14 07:15:53] pipeline complete: Why recoverability should be treated as a security property (80s)

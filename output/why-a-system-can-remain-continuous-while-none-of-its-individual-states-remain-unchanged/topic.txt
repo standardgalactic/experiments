@@ -1,0 +1,1 @@
+Why a system can remain continuous while none of its individual states remain unchanged

@@ -1,0 +1,14 @@
+[2026-08-14 06:30:28] pipeline started: Why semantic decay is a computational failure mode (ROUNDS=2)
+[2026-08-14 06:30:29] outline: started with granite4.1:3b
+[2026-08-14 06:30:33] outline: complete (4s, 2927 bytes)
+[2026-08-14 06:30:33] draft: started with granite4.1:3b
+[2026-08-14 06:30:40] draft: complete (7s, 5053 bytes)
+[2026-08-14 06:30:40] review-1: started with granite4.1:8b
+[2026-08-14 06:31:00] review-1: complete (20s, 5570 bytes)
+[2026-08-14 06:31:00] revision-1: started with granite4.1:3b
+[2026-08-14 06:31:10] revision-1: complete (10s, 5053 bytes)
+[2026-08-14 06:31:10] review-2: started with granite4.1:8b
+[2026-08-14 06:31:29] review-2: complete (19s, 4965 bytes)
+[2026-08-14 06:31:29] revision-2: started with granite4.1:3b
+[2026-08-14 06:31:39] revision-2: complete (10s, 5036 bytes)
+[2026-08-14 06:31:39] pipeline complete: Why semantic decay is a computational failure mode (71s)

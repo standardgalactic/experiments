@@ -1,0 +1,14 @@
+[2026-08-13 23:03:31] pipeline started: Why reconstruction is not the same operation as continuation (ROUNDS=2)
+[2026-08-13 23:03:31] outline: started with granite4.1:3b
+[2026-08-13 23:03:35] outline: complete (4s, 2499 bytes)
+[2026-08-13 23:03:35] draft: started with granite4.1:3b
+[2026-08-13 23:03:44] draft: complete (9s, 5624 bytes)
+[2026-08-13 23:03:44] review-1: started with granite4.1:8b
+[2026-08-13 23:03:59] review-1: complete (15s, 4365 bytes)
+[2026-08-13 23:03:59] revision-1: started with granite4.1:3b
+[2026-08-13 23:04:10] revision-1: complete (11s, 5590 bytes)
+[2026-08-13 23:04:10] review-2: started with granite4.1:8b
+[2026-08-13 23:04:28] review-2: complete (18s, 4783 bytes)
+[2026-08-13 23:04:28] revision-2: started with granite4.1:3b
+[2026-08-13 23:04:39] revision-2: complete (11s, 5590 bytes)
+[2026-08-13 23:04:39] pipeline complete: Why reconstruction is not the same operation as continuation (68s)

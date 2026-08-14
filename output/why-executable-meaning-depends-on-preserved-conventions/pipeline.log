@@ -1,0 +1,14 @@
+[2026-08-14 06:28:07] pipeline started: Why executable meaning depends on preserved conventions (ROUNDS=2)
+[2026-08-14 06:28:07] outline: started with granite4.1:3b
+[2026-08-14 06:28:12] outline: complete (5s, 3269 bytes)
+[2026-08-14 06:28:12] draft: started with granite4.1:3b
+[2026-08-14 06:28:21] draft: complete (9s, 6691 bytes)
+[2026-08-14 06:28:21] review-1: started with granite4.1:8b
+[2026-08-14 06:28:39] review-1: complete (18s, 5145 bytes)
+[2026-08-14 06:28:39] revision-1: started with granite4.1:3b
+[2026-08-14 06:28:51] revision-1: complete (12s, 6525 bytes)
+[2026-08-14 06:28:51] review-2: started with granite4.1:8b
+[2026-08-14 06:29:10] review-2: complete (19s, 4665 bytes)
+[2026-08-14 06:29:10] revision-2: started with granite4.1:3b
+[2026-08-14 06:29:22] revision-2: complete (12s, 6240 bytes)
+[2026-08-14 06:29:22] pipeline complete: Why executable meaning depends on preserved conventions (75s)

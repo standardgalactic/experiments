@@ -1,0 +1,14 @@
+[2026-08-13 23:35:29] pipeline started: Why nonlinear dynamics may preserve distinctions that linear smoothing appears to erase (ROUNDS=2)
+[2026-08-13 23:35:29] outline: started with granite4.1:3b
+[2026-08-13 23:35:34] outline: complete (5s, 3457 bytes)
+[2026-08-13 23:35:34] draft: started with granite4.1:3b
+[2026-08-13 23:35:42] draft: complete (8s, 5702 bytes)
+[2026-08-13 23:35:42] review-1: started with granite4.1:8b
+[2026-08-13 23:36:01] review-1: complete (19s, 5216 bytes)
+[2026-08-13 23:36:01] revision-1: started with granite4.1:3b
+[2026-08-13 23:36:12] revision-1: complete (11s, 5707 bytes)
+[2026-08-13 23:36:12] review-2: started with granite4.1:8b
+[2026-08-13 23:36:31] review-2: complete (19s, 5575 bytes)
+[2026-08-13 23:36:31] revision-2: started with granite4.1:3b
+[2026-08-13 23:36:42] revision-2: complete (11s, 5704 bytes)
+[2026-08-13 23:36:42] pipeline complete: Why nonlinear dynamics may preserve distinctions that linear smoothing appears to erase (73s)

@@ -1,0 +1,14 @@
+[2026-08-14 06:12:05] pipeline started: Why compression preserves some distinctions by deliberately destroying others (ROUNDS=2)
+[2026-08-14 06:12:05] outline: started with granite4.1:3b
+[2026-08-14 06:12:12] outline: complete (7s, 2914 bytes)
+[2026-08-14 06:12:12] draft: started with granite4.1:3b
+[2026-08-14 06:12:19] draft: complete (7s, 5021 bytes)
+[2026-08-14 06:12:19] review-1: started with granite4.1:8b
+[2026-08-14 06:12:40] review-1: complete (21s, 6119 bytes)
+[2026-08-14 06:12:40] revision-1: started with granite4.1:3b
+[2026-08-14 06:12:52] revision-1: complete (12s, 4587 bytes)
+[2026-08-14 06:12:52] review-2: started with granite4.1:8b
+[2026-08-14 06:13:11] review-2: complete (19s, 5928 bytes)
+[2026-08-14 06:13:11] revision-2: started with granite4.1:3b
+[2026-08-14 06:13:23] revision-2: complete (12s, 4587 bytes)
+[2026-08-14 06:13:23] pipeline complete: Why compression preserves some distinctions by deliberately destroying others (78s)

@@ -1,0 +1,14 @@
+[2026-08-14 06:10:50] pipeline started: Why uncertainty about history does not imply that history itself was indeterminate (ROUNDS=2)
+[2026-08-14 06:10:50] outline: started with granite4.1:3b
+[2026-08-14 06:10:55] outline: complete (5s, 3148 bytes)
+[2026-08-14 06:10:55] draft: started with granite4.1:3b
+[2026-08-14 06:11:05] draft: complete (10s, 5274 bytes)
+[2026-08-14 06:11:05] review-1: started with granite4.1:8b
+[2026-08-14 06:11:23] review-1: complete (18s, 5142 bytes)
+[2026-08-14 06:11:23] revision-1: started with granite4.1:3b
+[2026-08-14 06:11:34] revision-1: complete (11s, 5193 bytes)
+[2026-08-14 06:11:34] review-2: started with granite4.1:8b
+[2026-08-14 06:11:54] review-2: complete (20s, 4932 bytes)
+[2026-08-14 06:11:54] revision-2: started with granite4.1:3b
+[2026-08-14 06:12:05] revision-2: complete (11s, 4917 bytes)
+[2026-08-14 06:12:05] pipeline complete: Why uncertainty about history does not imply that history itself was indeterminate (75s)

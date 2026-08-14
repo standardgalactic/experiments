@@ -1,0 +1,14 @@
+[2026-08-14 06:14:34] pipeline started: Why interference transforms historical information rather than simply deleting it (ROUNDS=2)
+[2026-08-14 06:14:34] outline: started with granite4.1:3b
+[2026-08-14 06:14:38] outline: complete (4s, 2765 bytes)
+[2026-08-14 06:14:38] draft: started with granite4.1:3b
+[2026-08-14 06:14:44] draft: complete (6s, 4154 bytes)
+[2026-08-14 06:14:44] review-1: started with granite4.1:8b
+[2026-08-14 06:15:04] review-1: complete (20s, 5747 bytes)
+[2026-08-14 06:15:04] revision-1: started with granite4.1:3b
+[2026-08-14 06:15:14] revision-1: complete (10s, 4152 bytes)
+[2026-08-14 06:15:14] review-2: started with granite4.1:8b
+[2026-08-14 06:15:35] review-2: complete (21s, 5997 bytes)
+[2026-08-14 06:15:35] revision-2: started with granite4.1:3b
+[2026-08-14 06:15:44] revision-2: complete (9s, 4138 bytes)
+[2026-08-14 06:15:44] pipeline complete: Why interference transforms historical information rather than simply deleting it (70s)

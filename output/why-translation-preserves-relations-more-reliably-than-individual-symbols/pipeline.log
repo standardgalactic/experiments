@@ -1,0 +1,14 @@
+[2026-08-14 07:18:12] pipeline started: Why translation preserves relations more reliably than individual symbols (ROUNDS=2)
+[2026-08-14 07:18:12] outline: started with granite4.1:3b
+[2026-08-14 07:18:19] outline: complete (7s, 2965 bytes)
+[2026-08-14 07:18:19] draft: started with granite4.1:3b
+[2026-08-14 07:18:27] draft: complete (8s, 6318 bytes)
+[2026-08-14 07:18:27] review-1: started with granite4.1:8b
+[2026-08-14 07:18:43] review-1: complete (16s, 4781 bytes)
+[2026-08-14 07:18:43] revision-1: started with granite4.1:3b
+[2026-08-14 07:18:57] revision-1: complete (14s, 6322 bytes)
+[2026-08-14 07:18:57] review-2: started with granite4.1:8b
+[2026-08-14 07:19:14] review-2: complete (17s, 4659 bytes)
+[2026-08-14 07:19:14] revision-2: started with granite4.1:3b
+[2026-08-14 07:19:28] revision-2: complete (14s, 6322 bytes)
+[2026-08-14 07:19:28] pipeline complete: Why translation preserves relations more reliably than individual symbols (76s)

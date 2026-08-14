@@ -1,0 +1,1 @@
+Why scope is better understood as geometry than as a container

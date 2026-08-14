@@ -1,0 +1,14 @@
+[2026-08-13 23:24:37] pipeline started: Why recurrence requires recursive accessibility rather than a privileged first state (ROUNDS=2)
+[2026-08-13 23:24:37] outline: started with granite4.1:3b
+[2026-08-13 23:24:41] outline: complete (4s, 2426 bytes)
+[2026-08-13 23:24:41] draft: started with granite4.1:3b
+[2026-08-13 23:24:47] draft: complete (6s, 4778 bytes)
+[2026-08-13 23:24:47] review-1: started with granite4.1:8b
+[2026-08-13 23:25:04] review-1: complete (17s, 4722 bytes)
+[2026-08-13 23:25:04] revision-1: started with granite4.1:3b
+[2026-08-13 23:25:14] revision-1: complete (10s, 4760 bytes)
+[2026-08-13 23:25:14] review-2: started with granite4.1:8b
+[2026-08-13 23:25:30] review-2: complete (16s, 4865 bytes)
+[2026-08-13 23:25:30] revision-2: started with granite4.1:3b
+[2026-08-13 23:25:42] revision-2: complete (12s, 4760 bytes)
+[2026-08-13 23:25:42] pipeline complete: Why recurrence requires recursive accessibility rather than a privileged first state (65s)

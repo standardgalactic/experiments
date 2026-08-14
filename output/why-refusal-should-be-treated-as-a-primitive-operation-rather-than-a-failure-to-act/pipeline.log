@@ -1,0 +1,14 @@
+[2026-08-13 22:27:35] pipeline started: Why refusal should be treated as a primitive operation rather than a failure to act (ROUNDS=2)
+[2026-08-13 22:27:35] outline: started with granite4.1:3b
+[2026-08-13 22:27:40] outline: complete (5s, 2450 bytes)
+[2026-08-13 22:27:40] draft: started with granite4.1:3b
+[2026-08-13 22:27:50] draft: complete (10s, 7038 bytes)
+[2026-08-13 22:27:50] review-1: started with granite4.1:8b
+[2026-08-13 22:28:07] review-1: complete (17s, 4445 bytes)
+[2026-08-13 22:28:07] revision-1: started with granite4.1:3b
+[2026-08-13 22:28:22] revision-1: complete (15s, 7064 bytes)
+[2026-08-13 22:28:22] review-2: started with granite4.1:8b
+[2026-08-13 22:28:40] review-2: complete (18s, 4947 bytes)
+[2026-08-13 22:28:40] revision-2: started with granite4.1:3b
+[2026-08-13 22:28:55] revision-2: complete (15s, 7064 bytes)
+[2026-08-13 22:28:55] pipeline complete: Why refusal should be treated as a primitive operation rather than a failure to act (80s)

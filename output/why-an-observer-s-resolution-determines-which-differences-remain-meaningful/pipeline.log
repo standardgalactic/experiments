@@ -1,0 +1,14 @@
+[2026-08-14 06:17:05] pipeline started: Why an observer's resolution determines which differences remain meaningful (ROUNDS=2)
+[2026-08-14 06:17:05] outline: started with granite4.1:3b
+[2026-08-14 06:17:10] outline: complete (5s, 3077 bytes)
+[2026-08-14 06:17:10] draft: started with granite4.1:3b
+[2026-08-14 06:17:20] draft: complete (10s, 6016 bytes)
+[2026-08-14 06:17:20] review-1: started with granite4.1:8b
+[2026-08-14 06:17:38] review-1: complete (18s, 5494 bytes)
+[2026-08-14 06:17:38] revision-1: started with granite4.1:3b
+[2026-08-14 06:17:49] revision-1: complete (11s, 4462 bytes)
+[2026-08-14 06:17:49] review-2: started with granite4.1:8b
+[2026-08-14 06:18:03] review-2: complete (14s, 4144 bytes)
+[2026-08-14 06:18:03] revision-2: started with granite4.1:3b
+[2026-08-14 06:18:12] revision-2: complete (9s, 4363 bytes)
+[2026-08-14 06:18:12] pipeline complete: Why an observer's resolution determines which differences remain meaningful (67s)

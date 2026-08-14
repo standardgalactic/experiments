@@ -1,0 +1,14 @@
+[2026-08-14 06:25:46] pipeline started: Why error correction is a constructive operation rather than merely restoration (ROUNDS=2)
+[2026-08-14 06:25:46] outline: started with granite4.1:3b
+[2026-08-14 06:25:51] outline: complete (5s, 2853 bytes)
+[2026-08-14 06:25:51] draft: started with granite4.1:3b
+[2026-08-14 06:25:57] draft: complete (6s, 4954 bytes)
+[2026-08-14 06:25:57] review-1: started with granite4.1:8b
+[2026-08-14 06:26:17] review-1: complete (20s, 5400 bytes)
+[2026-08-14 06:26:17] revision-1: started with granite4.1:3b
+[2026-08-14 06:26:27] revision-1: complete (10s, 4954 bytes)
+[2026-08-14 06:26:27] review-2: started with granite4.1:8b
+[2026-08-14 06:26:43] review-2: complete (16s, 4852 bytes)
+[2026-08-14 06:26:43] revision-2: started with granite4.1:3b
+[2026-08-14 06:26:55] revision-2: complete (12s, 4914 bytes)
+[2026-08-14 06:26:55] pipeline complete: Why error correction is a constructive operation rather than merely restoration (69s)

@@ -1,0 +1,14 @@
+[2026-08-13 23:05:52] pipeline started: Why information can survive transformation without surviving in its original representation (ROUNDS=2)
+[2026-08-13 23:05:52] outline: started with granite4.1:3b
+[2026-08-13 23:05:58] outline: complete (6s, 3221 bytes)
+[2026-08-13 23:05:58] draft: started with granite4.1:3b
+[2026-08-13 23:06:06] draft: complete (8s, 6484 bytes)
+[2026-08-13 23:06:06] review-1: started with granite4.1:8b
+[2026-08-13 23:06:23] review-1: complete (17s, 5010 bytes)
+[2026-08-13 23:06:23] revision-1: started with granite4.1:3b
+[2026-08-13 23:06:36] revision-1: complete (13s, 6484 bytes)
+[2026-08-13 23:06:36] review-2: started with granite4.1:8b
+[2026-08-13 23:06:51] review-2: complete (15s, 4115 bytes)
+[2026-08-13 23:06:51] revision-2: started with granite4.1:3b
+[2026-08-13 23:07:05] revision-2: complete (14s, 6469 bytes)
+[2026-08-13 23:07:05] pipeline complete: Why information can survive transformation without surviving in its original representation (73s)

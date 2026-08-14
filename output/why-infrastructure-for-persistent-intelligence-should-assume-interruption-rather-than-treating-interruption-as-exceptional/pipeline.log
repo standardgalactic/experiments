@@ -1,0 +1,14 @@
+[2026-08-14 06:57:52] pipeline started: Why infrastructure for persistent intelligence should assume interruption rather than treating interruption as exceptional (ROUNDS=2)
+[2026-08-14 06:57:52] outline: started with granite4.1:3b
+[2026-08-14 06:57:59] outline: complete (7s, 3142 bytes)
+[2026-08-14 06:57:59] draft: started with granite4.1:3b
+[2026-08-14 06:58:08] draft: complete (9s, 6856 bytes)
+[2026-08-14 06:58:08] review-1: started with granite4.1:8b
+[2026-08-14 06:58:25] review-1: complete (17s, 5178 bytes)
+[2026-08-14 06:58:25] revision-1: started with granite4.1:3b
+[2026-08-14 06:58:40] revision-1: complete (15s, 6851 bytes)
+[2026-08-14 06:58:40] review-2: started with granite4.1:8b
+[2026-08-14 06:58:55] review-2: complete (15s, 4392 bytes)
+[2026-08-14 06:58:55] revision-2: started with granite4.1:3b
+[2026-08-14 06:59:09] revision-2: complete (14s, 6716 bytes)
+[2026-08-14 06:59:09] pipeline complete: Why infrastructure for persistent intelligence should assume interruption rather than treating interruption as exceptional (77s)

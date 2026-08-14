@@ -1,0 +1,1 @@
+Why infrastructure for persistent intelligence should assume interruption rather than treating interruption as exceptional

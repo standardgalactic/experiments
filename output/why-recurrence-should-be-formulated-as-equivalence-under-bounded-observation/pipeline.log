@@ -1,0 +1,13 @@
+[2026-08-13 23:37:59] pipeline started: Why recurrence should be formulated as equivalence under bounded observation (ROUNDS=2)
+[2026-08-13 23:37:59] outline: started with granite4.1:3b
+[2026-08-13 23:38:04] outline: complete (5s, 3390 bytes)
+[2026-08-13 23:38:05] draft: started with granite4.1:3b
+[2026-08-13 23:38:14] draft: complete (9s, 7602 bytes)
+[2026-08-13 23:38:15] review-1: started with granite4.1:8b
+[2026-08-13 23:38:33] review-1: complete (18s, 5134 bytes)
+[2026-08-13 23:38:33] revision-1: started with granite4.1:3b
+[2026-08-13 23:38:44] revision-1: complete (11s, 5902 bytes)
+[2026-08-13 23:38:44] review-2: started with granite4.1:8b
+[2026-08-13 23:39:01] review-2: complete (17s, 5062 bytes)
+[2026-08-13 23:39:01] revision-2: started with granite4.1:3b
+[2026-08-13 23:39:10] revision-2: validation failure (2851 bytes)

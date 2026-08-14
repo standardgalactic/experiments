@@ -1,0 +1,14 @@
+[2026-08-14 07:04:17] pipeline started: Why small systems benefit from defensibility rather than maximal security complexity (ROUNDS=2)
+[2026-08-14 07:04:17] outline: started with granite4.1:3b
+[2026-08-14 07:04:22] outline: complete (5s, 3155 bytes)
+[2026-08-14 07:04:22] draft: started with granite4.1:3b
+[2026-08-14 07:04:30] draft: complete (8s, 6166 bytes)
+[2026-08-14 07:04:30] review-1: started with granite4.1:8b
+[2026-08-14 07:04:49] review-1: complete (19s, 5213 bytes)
+[2026-08-14 07:04:49] revision-1: started with granite4.1:3b
+[2026-08-14 07:05:01] revision-1: complete (12s, 6160 bytes)
+[2026-08-14 07:05:01] review-2: started with granite4.1:8b
+[2026-08-14 07:05:20] review-2: complete (19s, 5124 bytes)
+[2026-08-14 07:05:20] revision-2: started with granite4.1:3b
+[2026-08-14 07:05:32] revision-2: complete (12s, 6172 bytes)
+[2026-08-14 07:05:32] pipeline complete: Why small systems benefit from defensibility rather than maximal security complexity (75s)

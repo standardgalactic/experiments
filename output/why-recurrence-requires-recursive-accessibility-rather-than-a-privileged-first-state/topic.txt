@@ -1,0 +1,1 @@
+Why recurrence requires recursive accessibility rather than a privileged first state

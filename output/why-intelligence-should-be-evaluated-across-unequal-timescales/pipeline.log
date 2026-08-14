@@ -1,0 +1,14 @@
+[2026-08-13 22:44:50] pipeline started: Why intelligence should be evaluated across unequal timescales (ROUNDS=2)
+[2026-08-13 22:44:50] outline: started with granite4.1:3b
+[2026-08-13 22:44:54] outline: complete (4s, 2572 bytes)
+[2026-08-13 22:44:54] draft: started with granite4.1:3b
+[2026-08-13 22:45:01] draft: complete (7s, 5690 bytes)
+[2026-08-13 22:45:01] review-1: started with granite4.1:8b
+[2026-08-13 22:45:17] review-1: complete (16s, 4242 bytes)
+[2026-08-13 22:45:17] revision-1: started with granite4.1:3b
+[2026-08-13 22:45:33] revision-1: complete (16s, 6365 bytes)
+[2026-08-13 22:45:33] review-2: started with granite4.1:8b
+[2026-08-13 22:45:53] review-2: complete (20s, 5571 bytes)
+[2026-08-13 22:45:53] revision-2: started with granite4.1:3b
+[2026-08-13 22:46:09] revision-2: complete (16s, 6267 bytes)
+[2026-08-13 22:46:09] pipeline complete: Why intelligence should be evaluated across unequal timescales (79s)

@@ -1,0 +1,14 @@
+[2026-08-13 23:10:40] pipeline started: Why provenance is a structural property rather than merely metadata (ROUNDS=2)
+[2026-08-13 23:10:40] outline: started with granite4.1:3b
+[2026-08-13 23:10:45] outline: complete (5s, 2873 bytes)
+[2026-08-13 23:10:46] draft: started with granite4.1:3b
+[2026-08-13 23:10:54] draft: complete (8s, 6586 bytes)
+[2026-08-13 23:10:54] review-1: started with granite4.1:8b
+[2026-08-13 23:11:14] review-1: complete (20s, 5647 bytes)
+[2026-08-13 23:11:15] revision-1: started with granite4.1:3b
+[2026-08-13 23:11:27] revision-1: complete (12s, 6597 bytes)
+[2026-08-13 23:11:27] review-2: started with granite4.1:8b
+[2026-08-13 23:11:46] review-2: complete (19s, 5333 bytes)
+[2026-08-13 23:11:47] revision-2: started with granite4.1:3b
+[2026-08-13 23:11:59] revision-2: complete (12s, 6599 bytes)
+[2026-08-13 23:11:59] pipeline complete: Why provenance is a structural property rather than merely metadata (79s)

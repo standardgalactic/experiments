@@ -1,0 +1,14 @@
+[2026-08-14 07:17:01] pipeline started: Why language functions as a maintained system of distinctions (ROUNDS=2)
+[2026-08-14 07:17:01] outline: started with granite4.1:3b
+[2026-08-14 07:17:06] outline: complete (5s, 2883 bytes)
+[2026-08-14 07:17:06] draft: started with granite4.1:3b
+[2026-08-14 07:17:15] draft: complete (9s, 5504 bytes)
+[2026-08-14 07:17:15] review-1: started with granite4.1:8b
+[2026-08-14 07:17:32] review-1: complete (17s, 5302 bytes)
+[2026-08-14 07:17:32] revision-1: started with granite4.1:3b
+[2026-08-14 07:17:45] revision-1: complete (13s, 5510 bytes)
+[2026-08-14 07:17:45] review-2: started with granite4.1:8b
+[2026-08-14 07:18:01] review-2: complete (16s, 4478 bytes)
+[2026-08-14 07:18:01] revision-2: started with granite4.1:3b
+[2026-08-14 07:18:12] revision-2: complete (11s, 5533 bytes)
+[2026-08-14 07:18:12] pipeline complete: Why language functions as a maintained system of distinctions (71s)

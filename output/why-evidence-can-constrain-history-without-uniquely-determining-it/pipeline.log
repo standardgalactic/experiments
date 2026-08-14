@@ -1,0 +1,14 @@
+[2026-08-14 06:08:20] pipeline started: Why evidence can constrain history without uniquely determining it (ROUNDS=2)
+[2026-08-14 06:08:20] outline: started with granite4.1:3b
+[2026-08-14 06:08:24] outline: complete (4s, 2232 bytes)
+[2026-08-14 06:08:24] draft: started with granite4.1:3b
+[2026-08-14 06:08:29] draft: complete (5s, 3981 bytes)
+[2026-08-14 06:08:30] review-1: started with granite4.1:8b
+[2026-08-14 06:08:47] review-1: complete (17s, 5335 bytes)
+[2026-08-14 06:08:47] revision-1: started with granite4.1:3b
+[2026-08-14 06:08:58] revision-1: complete (11s, 4000 bytes)
+[2026-08-14 06:08:58] review-2: started with granite4.1:8b
+[2026-08-14 06:09:12] review-2: complete (14s, 3722 bytes)
+[2026-08-14 06:09:12] revision-2: started with granite4.1:3b
+[2026-08-14 06:09:23] revision-2: complete (11s, 4000 bytes)
+[2026-08-14 06:09:23] pipeline complete: Why evidence can constrain history without uniquely determining it (63s)

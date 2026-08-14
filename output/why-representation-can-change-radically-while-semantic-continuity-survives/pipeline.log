@@ -1,0 +1,14 @@
+[2026-08-14 07:19:28] pipeline started: Why representation can change radically while semantic continuity survives (ROUNDS=2)
+[2026-08-14 07:19:28] outline: started with granite4.1:3b
+[2026-08-14 07:19:34] outline: complete (6s, 3498 bytes)
+[2026-08-14 07:19:34] draft: started with granite4.1:3b
+[2026-08-14 07:19:41] draft: complete (7s, 5809 bytes)
+[2026-08-14 07:19:41] review-1: started with granite4.1:8b
+[2026-08-14 07:20:01] review-1: complete (20s, 5554 bytes)
+[2026-08-14 07:20:01] revision-1: started with granite4.1:3b
+[2026-08-14 07:20:10] revision-1: complete (9s, 4344 bytes)
+[2026-08-14 07:20:10] review-2: started with granite4.1:8b
+[2026-08-14 07:20:29] review-2: complete (19s, 5430 bytes)
+[2026-08-14 07:20:29] revision-2: started with granite4.1:3b
+[2026-08-14 07:20:40] revision-2: complete (11s, 4268 bytes)
+[2026-08-14 07:20:40] pipeline complete: Why representation can change radically while semantic continuity survives (72s)

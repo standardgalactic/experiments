@@ -1,0 +1,14 @@
+[2026-08-14 06:33:00] pipeline started: Why refusal is a necessary capability of autonomous agents (ROUNDS=2)
+[2026-08-14 06:33:01] outline: started with granite4.1:3b
+[2026-08-14 06:33:08] outline: complete (7s, 3216 bytes)
+[2026-08-14 06:33:08] draft: started with granite4.1:3b
+[2026-08-14 06:33:17] draft: complete (9s, 6238 bytes)
+[2026-08-14 06:33:17] review-1: started with granite4.1:8b
+[2026-08-14 06:33:34] review-1: complete (17s, 4801 bytes)
+[2026-08-14 06:33:34] revision-1: started with granite4.1:3b
+[2026-08-14 06:33:48] revision-1: complete (14s, 6238 bytes)
+[2026-08-14 06:33:48] review-2: started with granite4.1:8b
+[2026-08-14 06:34:06] review-2: complete (18s, 5362 bytes)
+[2026-08-14 06:34:06] revision-2: started with granite4.1:3b
+[2026-08-14 06:34:20] revision-2: complete (14s, 6238 bytes)
+[2026-08-14 06:34:20] pipeline complete: Why refusal is a necessary capability of autonomous agents (80s)

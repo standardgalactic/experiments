@@ -1,0 +1,14 @@
+[2026-08-14 06:20:36] pipeline started: Why persistent computation requires active semantic repair (ROUNDS=2)
+[2026-08-14 06:20:36] outline: started with granite4.1:3b
+[2026-08-14 06:20:42] outline: complete (6s, 2538 bytes)
+[2026-08-14 06:20:42] draft: started with granite4.1:3b
+[2026-08-14 06:20:50] draft: complete (8s, 6533 bytes)
+[2026-08-14 06:20:50] review-1: started with granite4.1:8b
+[2026-08-14 06:21:07] review-1: complete (17s, 5079 bytes)
+[2026-08-14 06:21:07] revision-1: started with granite4.1:3b
+[2026-08-14 06:21:22] revision-1: complete (15s, 6533 bytes)
+[2026-08-14 06:21:22] review-2: started with granite4.1:8b
+[2026-08-14 06:21:37] review-2: complete (15s, 4211 bytes)
+[2026-08-14 06:21:37] revision-2: started with granite4.1:3b
+[2026-08-14 06:21:51] revision-2: complete (14s, 6471 bytes)
+[2026-08-14 06:21:51] pipeline complete: Why persistent computation requires active semantic repair (75s)

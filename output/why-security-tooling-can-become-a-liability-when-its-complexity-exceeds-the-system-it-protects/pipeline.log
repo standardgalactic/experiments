@@ -1,0 +1,14 @@
+[2026-08-14 07:11:42] pipeline started: Why security tooling can become a liability when its complexity exceeds the system it protects (ROUNDS=2)
+[2026-08-14 07:11:42] outline: started with granite4.1:3b
+[2026-08-14 07:11:49] outline: complete (7s, 3839 bytes)
+[2026-08-14 07:11:49] draft: started with granite4.1:3b
+[2026-08-14 07:11:59] draft: complete (10s, 6763 bytes)
+[2026-08-14 07:11:59] review-1: started with granite4.1:8b
+[2026-08-14 07:12:22] review-1: complete (23s, 6482 bytes)
+[2026-08-14 07:12:22] revision-1: started with granite4.1:3b
+[2026-08-14 07:12:38] revision-1: complete (16s, 6617 bytes)
+[2026-08-14 07:12:38] review-2: started with granite4.1:8b
+[2026-08-14 07:12:59] review-2: complete (21s, 6098 bytes)
+[2026-08-14 07:12:59] revision-2: started with granite4.1:3b
+[2026-08-14 07:13:15] revision-2: complete (16s, 6356 bytes)
+[2026-08-14 07:13:15] pipeline complete: Why security tooling can become a liability when its complexity exceeds the system it protects (93s)

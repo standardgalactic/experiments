@@ -1,0 +1,14 @@
+[2026-08-14 07:10:37] pipeline started: Why cryptographic practice should scale down to individuals and small organizations (ROUNDS=2)
+[2026-08-14 07:10:37] outline: started with granite4.1:3b
+[2026-08-14 07:10:41] outline: complete (4s, 2789 bytes)
+[2026-08-14 07:10:41] draft: started with granite4.1:3b
+[2026-08-14 07:10:48] draft: complete (7s, 5478 bytes)
+[2026-08-14 07:10:48] review-1: started with granite4.1:8b
+[2026-08-14 07:11:05] review-1: complete (17s, 4169 bytes)
+[2026-08-14 07:11:05] revision-1: started with granite4.1:3b
+[2026-08-14 07:11:15] revision-1: complete (10s, 5009 bytes)
+[2026-08-14 07:11:15] review-2: started with granite4.1:8b
+[2026-08-14 07:11:33] review-2: complete (18s, 4516 bytes)
+[2026-08-14 07:11:33] revision-2: started with granite4.1:3b
+[2026-08-14 07:11:42] revision-2: complete (9s, 4604 bytes)
+[2026-08-14 07:11:42] pipeline complete: Why cryptographic practice should scale down to individuals and small organizations (65s)

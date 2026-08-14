@@ -1,0 +1,14 @@
+[2026-08-14 06:18:12] pipeline started: Why computation is not exhausted by state transition (ROUNDS=2)
+[2026-08-14 06:18:13] outline: started with granite4.1:3b
+[2026-08-14 06:18:18] outline: complete (5s, 3660 bytes)
+[2026-08-14 06:18:18] draft: started with granite4.1:3b
+[2026-08-14 06:18:28] draft: complete (10s, 5922 bytes)
+[2026-08-14 06:18:28] review-1: started with granite4.1:8b
+[2026-08-14 06:18:45] review-1: complete (17s, 5341 bytes)
+[2026-08-14 06:18:45] revision-1: started with granite4.1:3b
+[2026-08-14 06:18:59] revision-1: complete (14s, 5972 bytes)
+[2026-08-14 06:18:59] review-2: started with granite4.1:8b
+[2026-08-14 06:19:16] review-2: complete (17s, 5533 bytes)
+[2026-08-14 06:19:16] revision-2: started with granite4.1:3b
+[2026-08-14 06:19:28] revision-2: complete (12s, 5973 bytes)
+[2026-08-14 06:19:28] pipeline complete: Why computation is not exhausted by state transition (76s)

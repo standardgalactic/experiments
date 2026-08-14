@@ -1,0 +1,14 @@
+[2026-08-14 07:37:14] pipeline started: What cryptographic signatures reveal about historical identity (ROUNDS=2)
+[2026-08-14 07:37:14] outline: started with granite4.1:3b
+[2026-08-14 07:37:20] outline: complete (6s, 3604 bytes)
+[2026-08-14 07:37:20] draft: started with granite4.1:3b
+[2026-08-14 07:37:28] draft: complete (8s, 6326 bytes)
+[2026-08-14 07:37:28] review-1: started with granite4.1:8b
+[2026-08-14 07:37:49] review-1: complete (21s, 5462 bytes)
+[2026-08-14 07:37:49] revision-1: started with granite4.1:3b
+[2026-08-14 07:38:00] revision-1: complete (11s, 5693 bytes)
+[2026-08-14 07:38:00] review-2: started with granite4.1:8b
+[2026-08-14 07:38:19] review-2: complete (19s, 5031 bytes)
+[2026-08-14 07:38:19] revision-2: started with granite4.1:3b
+[2026-08-14 07:38:29] revision-2: complete (10s, 5721 bytes)
+[2026-08-14 07:38:29] pipeline complete: What cryptographic signatures reveal about historical identity (75s)

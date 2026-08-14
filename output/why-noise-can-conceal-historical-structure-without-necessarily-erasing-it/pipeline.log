@@ -1,0 +1,14 @@
+[2026-08-14 06:13:23] pipeline started: Why noise can conceal historical structure without necessarily erasing it (ROUNDS=2)
+[2026-08-14 06:13:23] outline: started with granite4.1:3b
+[2026-08-14 06:13:28] outline: complete (5s, 2668 bytes)
+[2026-08-14 06:13:28] draft: started with granite4.1:3b
+[2026-08-14 06:13:35] draft: complete (6s, 5281 bytes)
+[2026-08-14 06:13:35] review-1: started with granite4.1:8b
+[2026-08-14 06:13:54] review-1: complete (19s, 5470 bytes)
+[2026-08-14 06:13:54] revision-1: started with granite4.1:3b
+[2026-08-14 06:14:06] revision-1: complete (12s, 5305 bytes)
+[2026-08-14 06:14:06] review-2: started with granite4.1:8b
+[2026-08-14 06:14:22] review-2: complete (16s, 4063 bytes)
+[2026-08-14 06:14:22] revision-2: started with granite4.1:3b
+[2026-08-14 06:14:34] revision-2: complete (12s, 5037 bytes)
+[2026-08-14 06:14:34] pipeline complete: Why noise can conceal historical structure without necessarily erasing it (71s)

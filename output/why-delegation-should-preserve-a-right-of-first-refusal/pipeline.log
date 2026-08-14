@@ -1,0 +1,14 @@
+[2026-08-14 06:35:34] pipeline started: Why delegation should preserve a right of first refusal (ROUNDS=2)
+[2026-08-14 06:35:34] outline: started with granite4.1:3b
+[2026-08-14 06:35:39] outline: complete (5s, 2829 bytes)
+[2026-08-14 06:35:39] draft: started with granite4.1:3b
+[2026-08-14 06:35:47] draft: complete (8s, 5811 bytes)
+[2026-08-14 06:35:47] review-1: started with granite4.1:8b
+[2026-08-14 06:36:06] review-1: complete (19s, 4797 bytes)
+[2026-08-14 06:36:06] revision-1: started with granite4.1:3b
+[2026-08-14 06:36:18] revision-1: complete (12s, 5817 bytes)
+[2026-08-14 06:36:18] review-2: started with granite4.1:8b
+[2026-08-14 06:36:37] review-2: complete (19s, 4646 bytes)
+[2026-08-14 06:36:37] revision-2: started with granite4.1:3b
+[2026-08-14 06:36:49] revision-2: complete (12s, 5817 bytes)
+[2026-08-14 06:36:49] pipeline complete: Why delegation should preserve a right of first refusal (75s)

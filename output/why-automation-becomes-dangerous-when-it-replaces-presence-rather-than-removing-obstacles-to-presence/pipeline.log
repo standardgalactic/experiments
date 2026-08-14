@@ -1,0 +1,14 @@
+[2026-08-14 06:36:49] pipeline started: Why automation becomes dangerous when it replaces presence rather than removing obstacles to presence (ROUNDS=2)
+[2026-08-14 06:36:49] outline: started with granite4.1:3b
+[2026-08-14 06:36:54] outline: complete (5s, 3236 bytes)
+[2026-08-14 06:36:54] draft: started with granite4.1:3b
+[2026-08-14 06:37:04] draft: complete (10s, 6454 bytes)
+[2026-08-14 06:37:04] review-1: started with granite4.1:8b
+[2026-08-14 06:37:20] review-1: complete (16s, 4673 bytes)
+[2026-08-14 06:37:20] revision-1: started with granite4.1:3b
+[2026-08-14 06:37:34] revision-1: complete (14s, 6476 bytes)
+[2026-08-14 06:37:34] review-2: started with granite4.1:8b
+[2026-08-14 06:37:52] review-2: complete (18s, 5714 bytes)
+[2026-08-14 06:37:53] revision-2: started with granite4.1:3b
+[2026-08-14 06:38:04] revision-2: complete (11s, 6476 bytes)
+[2026-08-14 06:38:04] pipeline complete: Why automation becomes dangerous when it replaces presence rather than removing obstacles to presence (75s)

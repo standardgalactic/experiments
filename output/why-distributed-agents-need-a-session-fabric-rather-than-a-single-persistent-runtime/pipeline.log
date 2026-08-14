@@ -1,0 +1,14 @@
+[2026-08-14 06:50:10] pipeline started: Why distributed agents need a session fabric rather than a single persistent runtime (ROUNDS=2)
+[2026-08-14 06:50:10] outline: started with granite4.1:3b
+[2026-08-14 06:50:14] outline: complete (4s, 2636 bytes)
+[2026-08-14 06:50:14] draft: started with granite4.1:3b
+[2026-08-14 06:50:24] draft: complete (10s, 7480 bytes)
+[2026-08-14 06:50:24] review-1: started with granite4.1:8b
+[2026-08-14 06:50:44] review-1: complete (20s, 4903 bytes)
+[2026-08-14 06:50:44] revision-1: started with granite4.1:3b
+[2026-08-14 06:50:58] revision-1: complete (14s, 7493 bytes)
+[2026-08-14 06:50:58] review-2: started with granite4.1:8b
+[2026-08-14 06:51:15] review-2: complete (17s, 4515 bytes)
+[2026-08-14 06:51:15] revision-2: started with granite4.1:3b
+[2026-08-14 06:51:29] revision-2: complete (14s, 7513 bytes)
+[2026-08-14 06:51:29] pipeline complete: Why distributed agents need a session fabric rather than a single persistent runtime (79s)

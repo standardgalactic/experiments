@@ -1,0 +1,14 @@
+[2026-08-14 07:34:38] pipeline started: What error correction reveals about identity (ROUNDS=2)
+[2026-08-14 07:34:38] outline: started with granite4.1:3b
+[2026-08-14 07:34:45] outline: complete (7s, 3426 bytes)
+[2026-08-14 07:34:45] draft: started with granite4.1:3b
+[2026-08-14 07:34:52] draft: complete (7s, 5373 bytes)
+[2026-08-14 07:34:52] review-1: started with granite4.1:8b
+[2026-08-14 07:35:10] review-1: complete (18s, 5495 bytes)
+[2026-08-14 07:35:10] revision-1: started with granite4.1:3b
+[2026-08-14 07:35:22] revision-1: complete (12s, 5373 bytes)
+[2026-08-14 07:35:22] review-2: started with granite4.1:8b
+[2026-08-14 07:35:41] review-2: complete (19s, 5771 bytes)
+[2026-08-14 07:35:41] revision-2: started with granite4.1:3b
+[2026-08-14 07:35:54] revision-2: complete (13s, 5373 bytes)
+[2026-08-14 07:35:54] pipeline complete: What error correction reveals about identity (76s)

@@ -1,0 +1,14 @@
+[2026-08-13 23:42:54] pipeline started: Why information should not be identified with immediately recoverable representation (ROUNDS=2)
+[2026-08-13 23:42:54] outline: started with granite4.1:3b
+[2026-08-13 23:42:59] outline: complete (5s, 2925 bytes)
+[2026-08-13 23:42:59] draft: started with granite4.1:3b
+[2026-08-13 23:43:09] draft: complete (10s, 6610 bytes)
+[2026-08-13 23:43:09] review-1: started with granite4.1:8b
+[2026-08-13 23:43:28] review-1: complete (19s, 6155 bytes)
+[2026-08-13 23:43:28] revision-1: started with granite4.1:3b
+[2026-08-13 23:43:43] revision-1: complete (15s, 6611 bytes)
+[2026-08-13 23:43:43] review-2: started with granite4.1:8b
+[2026-08-13 23:44:00] review-2: complete (17s, 5409 bytes)
+[2026-08-13 23:44:00] revision-2: started with granite4.1:3b
+[2026-08-13 23:44:14] revision-2: complete (14s, 6590 bytes)
+[2026-08-13 23:44:14] pipeline complete: Why information should not be identified with immediately recoverable representation (80s)

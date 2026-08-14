@@ -1,0 +1,14 @@
+[2026-08-13 22:58:12] pipeline started: Why identity is better represented by event history than by persistent state (ROUNDS=2)
+[2026-08-13 22:58:13] outline: started with granite4.1:3b
+[2026-08-13 22:58:17] outline: complete (4s, 2672 bytes)
+[2026-08-13 22:58:17] draft: started with granite4.1:3b
+[2026-08-13 22:58:25] draft: complete (8s, 6272 bytes)
+[2026-08-13 22:58:25] review-1: started with granite4.1:8b
+[2026-08-13 22:58:40] review-1: complete (15s, 3885 bytes)
+[2026-08-13 22:58:40] revision-1: started with granite4.1:3b
+[2026-08-13 22:58:52] revision-1: complete (12s, 6272 bytes)
+[2026-08-13 22:58:52] review-2: started with granite4.1:8b
+[2026-08-13 22:59:11] review-2: complete (19s, 5201 bytes)
+[2026-08-13 22:59:11] revision-2: started with granite4.1:3b
+[2026-08-13 22:59:22] revision-2: complete (11s, 6119 bytes)
+[2026-08-13 22:59:22] pipeline complete: Why identity is better represented by event history than by persistent state (70s)

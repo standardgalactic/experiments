@@ -1,0 +1,14 @@
+[2026-08-14 07:07:55] pipeline started: Why packet captures are fragmentary historical evidence rather than complete records (ROUNDS=2)
+[2026-08-14 07:07:55] outline: started with granite4.1:3b
+[2026-08-14 07:08:01] outline: complete (6s, 4042 bytes)
+[2026-08-14 07:08:01] draft: started with granite4.1:3b
+[2026-08-14 07:08:14] draft: complete (13s, 7292 bytes)
+[2026-08-14 07:08:14] review-1: started with granite4.1:8b
+[2026-08-14 07:08:33] review-1: complete (19s, 5884 bytes)
+[2026-08-14 07:08:33] revision-1: started with granite4.1:3b
+[2026-08-14 07:08:50] revision-1: complete (17s, 7386 bytes)
+[2026-08-14 07:08:50] review-2: started with granite4.1:8b
+[2026-08-14 07:09:06] review-2: complete (16s, 4680 bytes)
+[2026-08-14 07:09:06] revision-2: started with granite4.1:3b
+[2026-08-14 07:09:22] revision-2: complete (16s, 7370 bytes)
+[2026-08-14 07:09:22] pipeline complete: Why packet captures are fragmentary historical evidence rather than complete records (87s)

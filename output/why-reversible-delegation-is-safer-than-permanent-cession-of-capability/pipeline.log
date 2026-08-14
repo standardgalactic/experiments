@@ -1,0 +1,14 @@
+[2026-08-14 06:42:08] pipeline started: Why reversible delegation is safer than permanent cession of capability (ROUNDS=2)
+[2026-08-14 06:42:08] outline: started with granite4.1:3b
+[2026-08-14 06:42:12] outline: complete (4s, 2074 bytes)
+[2026-08-14 06:42:12] draft: started with granite4.1:3b
+[2026-08-14 06:42:20] draft: complete (8s, 6212 bytes)
+[2026-08-14 06:42:20] review-1: started with granite4.1:8b
+[2026-08-14 06:42:36] review-1: complete (16s, 4812 bytes)
+[2026-08-14 06:42:36] revision-1: started with granite4.1:3b
+[2026-08-14 06:42:49] revision-1: complete (13s, 6240 bytes)
+[2026-08-14 06:42:49] review-2: started with granite4.1:8b
+[2026-08-14 06:43:13] review-2: complete (24s, 6265 bytes)
+[2026-08-14 06:43:13] revision-2: started with granite4.1:3b
+[2026-08-14 06:43:24] revision-2: complete (11s, 5971 bytes)
+[2026-08-14 06:43:24] pipeline complete: Why reversible delegation is safer than permanent cession of capability (76s)

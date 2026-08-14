@@ -1,0 +1,14 @@
+[2026-08-14 07:31:04] pipeline started: What monotonic continuation reveals about the architecture of persistent agents (ROUNDS=2)
+[2026-08-14 07:31:04] outline: started with granite4.1:3b
+[2026-08-14 07:31:08] outline: complete (4s, 3004 bytes)
+[2026-08-14 07:31:08] draft: started with granite4.1:3b
+[2026-08-14 07:31:15] draft: complete (7s, 5304 bytes)
+[2026-08-14 07:31:15] review-1: started with granite4.1:8b
+[2026-08-14 07:31:34] review-1: complete (19s, 5271 bytes)
+[2026-08-14 07:31:34] revision-1: started with granite4.1:3b
+[2026-08-14 07:31:45] revision-1: complete (11s, 5310 bytes)
+[2026-08-14 07:31:45] review-2: started with granite4.1:8b
+[2026-08-14 07:32:03] review-2: complete (18s, 4253 bytes)
+[2026-08-14 07:32:03] revision-2: started with granite4.1:3b
+[2026-08-14 07:32:13] revision-2: complete (10s, 5310 bytes)
+[2026-08-14 07:32:13] pipeline complete: What monotonic continuation reveals about the architecture of persistent agents (69s)

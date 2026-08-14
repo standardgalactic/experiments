@@ -1,0 +1,1 @@
+Why collapse should be understood as a historical operation rather than a static state

@@ -1,0 +1,14 @@
+[2026-08-14 07:09:22] pipeline started: Why reconstructed sessions should explicitly represent uncertainty (ROUNDS=2)
+[2026-08-14 07:09:22] outline: started with granite4.1:3b
+[2026-08-14 07:09:27] outline: complete (5s, 2795 bytes)
+[2026-08-14 07:09:27] draft: started with granite4.1:3b
+[2026-08-14 07:09:36] draft: complete (9s, 6459 bytes)
+[2026-08-14 07:09:36] review-1: started with granite4.1:8b
+[2026-08-14 07:09:55] review-1: complete (19s, 4824 bytes)
+[2026-08-14 07:09:55] revision-1: started with granite4.1:3b
+[2026-08-14 07:10:06] revision-1: complete (11s, 6027 bytes)
+[2026-08-14 07:10:06] review-2: started with granite4.1:8b
+[2026-08-14 07:10:25] review-2: complete (19s, 5066 bytes)
+[2026-08-14 07:10:25] revision-2: started with granite4.1:3b
+[2026-08-14 07:10:37] revision-2: complete (12s, 5965 bytes)
+[2026-08-14 07:10:37] pipeline complete: Why reconstructed sessions should explicitly represent uncertainty (75s)

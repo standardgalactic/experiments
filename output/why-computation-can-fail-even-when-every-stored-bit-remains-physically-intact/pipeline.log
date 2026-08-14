@@ -1,0 +1,14 @@
+[2026-08-14 06:29:22] pipeline started: Why computation can fail even when every stored bit remains physically intact (ROUNDS=2)
+[2026-08-14 06:29:22] outline: started with granite4.1:3b
+[2026-08-14 06:29:27] outline: complete (5s, 3054 bytes)
+[2026-08-14 06:29:27] draft: started with granite4.1:3b
+[2026-08-14 06:29:32] draft: complete (5s, 3994 bytes)
+[2026-08-14 06:29:32] review-1: started with granite4.1:8b
+[2026-08-14 06:29:52] review-1: complete (20s, 5400 bytes)
+[2026-08-14 06:29:52] revision-1: started with granite4.1:3b
+[2026-08-14 06:30:00] revision-1: complete (8s, 3994 bytes)
+[2026-08-14 06:30:00] review-2: started with granite4.1:8b
+[2026-08-14 06:30:20] review-2: complete (20s, 5321 bytes)
+[2026-08-14 06:30:20] revision-2: started with granite4.1:3b
+[2026-08-14 06:30:28] revision-2: complete (8s, 3677 bytes)
+[2026-08-14 06:30:28] pipeline complete: Why computation can fail even when every stored bit remains physically intact (66s)

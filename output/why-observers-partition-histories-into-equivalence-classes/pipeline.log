@@ -1,0 +1,14 @@
+[2026-08-13 23:46:34] pipeline started: Why observers partition histories into equivalence classes (ROUNDS=2)
+[2026-08-13 23:46:34] outline: started with granite4.1:3b
+[2026-08-13 23:46:38] outline: complete (4s, 2738 bytes)
+[2026-08-13 23:46:38] draft: started with granite4.1:3b
+[2026-08-13 23:46:47] draft: complete (8s, 6692 bytes)
+[2026-08-13 23:46:47] review-1: started with granite4.1:8b
+[2026-08-13 23:47:06] review-1: complete (19s, 5524 bytes)
+[2026-08-13 23:47:06] revision-1: started with granite4.1:3b
+[2026-08-13 23:47:16] revision-1: complete (10s, 4572 bytes)
+[2026-08-13 23:47:16] review-2: started with granite4.1:8b
+[2026-08-13 23:47:32] review-2: complete (16s, 5297 bytes)
+[2026-08-13 23:47:32] revision-2: started with granite4.1:3b
+[2026-08-13 23:47:43] revision-2: complete (11s, 4512 bytes)
+[2026-08-13 23:47:43] pipeline complete: Why observers partition histories into equivalence classes (69s)

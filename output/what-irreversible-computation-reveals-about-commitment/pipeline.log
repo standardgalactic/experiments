@@ -1,0 +1,14 @@
+[2026-08-14 07:42:24] pipeline started: What irreversible computation reveals about commitment (ROUNDS=2)
+[2026-08-14 07:42:24] outline: started with granite4.1:3b
+[2026-08-14 07:42:28] outline: complete (4s, 2506 bytes)
+[2026-08-14 07:42:28] draft: started with granite4.1:3b
+[2026-08-14 07:42:36] draft: complete (8s, 5746 bytes)
+[2026-08-14 07:42:36] review-1: started with granite4.1:8b
+[2026-08-14 07:43:00] review-1: complete (24s, 6847 bytes)
+[2026-08-14 07:43:00] revision-1: started with granite4.1:3b
+[2026-08-14 07:43:12] revision-1: complete (12s, 5706 bytes)
+[2026-08-14 07:43:12] review-2: started with granite4.1:8b
+[2026-08-14 07:43:32] review-2: complete (20s, 5648 bytes)
+[2026-08-14 07:43:32] revision-2: started with granite4.1:3b
+[2026-08-14 07:43:44] revision-2: complete (12s, 5706 bytes)
+[2026-08-14 07:43:44] pipeline complete: What irreversible computation reveals about commitment (80s)

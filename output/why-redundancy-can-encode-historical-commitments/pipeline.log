@@ -1,0 +1,14 @@
+[2026-08-14 06:26:55] pipeline started: Why redundancy can encode historical commitments (ROUNDS=2)
+[2026-08-14 06:26:55] outline: started with granite4.1:3b
+[2026-08-14 06:26:59] outline: complete (4s, 2363 bytes)
+[2026-08-14 06:26:59] draft: started with granite4.1:3b
+[2026-08-14 06:27:06] draft: complete (7s, 5928 bytes)
+[2026-08-14 06:27:06] review-1: started with granite4.1:8b
+[2026-08-14 06:27:25] review-1: complete (19s, 4936 bytes)
+[2026-08-14 06:27:25] revision-1: started with granite4.1:3b
+[2026-08-14 06:27:37] revision-1: complete (12s, 5904 bytes)
+[2026-08-14 06:27:37] review-2: started with granite4.1:8b
+[2026-08-14 06:27:54] review-2: complete (17s, 4996 bytes)
+[2026-08-14 06:27:54] revision-2: started with granite4.1:3b
+[2026-08-14 06:28:07] revision-2: complete (13s, 5887 bytes)
+[2026-08-14 06:28:07] pipeline complete: Why redundancy can encode historical commitments (72s)

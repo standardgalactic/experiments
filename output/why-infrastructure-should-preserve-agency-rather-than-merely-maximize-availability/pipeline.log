@@ -1,0 +1,14 @@
+[2026-08-14 07:01:37] pipeline started: Why infrastructure should preserve agency rather than merely maximize availability (ROUNDS=2)
+[2026-08-14 07:01:37] outline: started with granite4.1:3b
+[2026-08-14 07:01:42] outline: complete (5s, 3394 bytes)
+[2026-08-14 07:01:42] draft: started with granite4.1:3b
+[2026-08-14 07:01:53] draft: complete (11s, 6610 bytes)
+[2026-08-14 07:01:53] review-1: started with granite4.1:8b
+[2026-08-14 07:02:09] review-1: complete (16s, 4912 bytes)
+[2026-08-14 07:02:09] revision-1: started with granite4.1:3b
+[2026-08-14 07:02:22] revision-1: complete (13s, 6609 bytes)
+[2026-08-14 07:02:22] review-2: started with granite4.1:8b
+[2026-08-14 07:02:42] review-2: complete (19s, 4790 bytes)
+[2026-08-14 07:02:42] revision-2: started with granite4.1:3b
+[2026-08-14 07:02:55] revision-2: complete (13s, 6609 bytes)
+[2026-08-14 07:02:55] pipeline complete: Why infrastructure should preserve agency rather than merely maximize availability (78s)

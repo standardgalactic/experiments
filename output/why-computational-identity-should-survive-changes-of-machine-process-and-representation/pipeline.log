@@ -1,0 +1,14 @@
+[2026-08-14 07:00:19] pipeline started: Why computational identity should survive changes of machine, process, and representation (ROUNDS=2)
+[2026-08-14 07:00:19] outline: started with granite4.1:3b
+[2026-08-14 07:00:25] outline: complete (6s, 3491 bytes)
+[2026-08-14 07:00:25] draft: started with granite4.1:3b
+[2026-08-14 07:00:33] draft: complete (8s, 6496 bytes)
+[2026-08-14 07:00:33] review-1: started with granite4.1:8b
+[2026-08-14 07:00:52] review-1: complete (19s, 5472 bytes)
+[2026-08-14 07:00:52] revision-1: started with granite4.1:3b
+[2026-08-14 07:01:05] revision-1: complete (13s, 6508 bytes)
+[2026-08-14 07:01:05] review-2: started with granite4.1:8b
+[2026-08-14 07:01:25] review-2: complete (20s, 5662 bytes)
+[2026-08-14 07:01:25] revision-2: started with granite4.1:3b
+[2026-08-14 07:01:37] revision-2: complete (12s, 6348 bytes)
+[2026-08-14 07:01:37] pipeline complete: Why computational identity should survive changes of machine, process, and representation (78s)
