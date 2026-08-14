@@ -1,0 +1,182 @@
+# Spherepop — admissibility, repair, and commitment
+
+Why admissibility is a stronger concept than optimization
+Why repair that eliminates difference can be a form of system failure
+Why successful repair must preserve the distinctions that make a system itself
+Why refusal should be treated as a primitive operation rather than a failure to act
+Why commitment changes the future option space of a system
+Why irreversible operations can create structure rather than merely destroy alternatives
+Why collapse should be understood as a historical operation rather than a static state
+Why operational mereology makes histories more fundamental than objects
+Why scope is better understood as geometry than as a container
+Why computation can be understood as semantic maintenance
+Why structured irreversibility is necessary for persistent identity
+Why the meaning of an operation depends on the history through which it became admissible
+Why a system can remain continuous while none of its individual states remain unchanged
+Why observability should be defined relative to operational boundaries
+Why history can function as identity without requiring an immutable core
+
+# Continuation, trajectories, and unequal timescales
+
+Why continuation should be treated as a property of trajectories
+Why intelligence should be evaluated across unequal timescales
+Why premature resolution can destroy information that slower processes would have preserved
+Why steering is fundamentally different from restarting
+Why interruption can become part of a trajectory without destroying its continuity
+Why monotonic continuation provides a better model of long-running cognition than isolated sessions
+Why memory should be hierarchical when cognition operates at multiple timescales
+Why deliberation and interaction should not be forced onto the same clock
+Why resolution should occur only when the available evidence justifies irreversible commitment
+Why an intelligent system should preserve unfinished states rather than continually forcing conclusions
+Why the ability to resume may be more important than the ability to remember everything
+Why distributed cognition requires repair mechanisms rather than perfect synchronization
+
+# History, identity, and recurrence
+
+Why identity is better represented by event history than by persistent state
+Why two observationally identical systems may nevertheless possess different identities
+Why irreversible history can distinguish states that ordinary observation treats as equivalent
+Why identity can persist without requiring an unchanging substance
+Why reconstruction is not the same operation as continuation
+Why historical equivalence depends on the observer and the distinctions available to that observer
+Why information can survive transformation without surviving in its original representation
+Why recurrence does not require literal repetition
+Why approximate recurrence may be more physically meaningful than exact recurrence
+Why the history of transformations can matter even when their final states are indistinguishable
+Why provenance is a structural property rather than merely metadata
+Why a sufficiently long history becomes part of the object it describes
+
+# Cosmology and the Smoothness Paradox
+
+Why primordial smoothness and terminal smoothness represent fundamentally different physical conditions
+Why a smooth universe can correspond to both low entropy and high entropy
+Why visual similarity between cosmological states does not imply thermodynamic equivalence
+Why cosmic expansion can increase entropy through causal separation
+Why mixing and decorrelation provide an independent route toward cosmological entropy
+Why the disappearance of usable gradients matters more than the disappearance of structure
+Why available work provides a more useful cosmological distinction than visual complexity
+Why black-hole evaporation need not represent the final meaningful transformation of the universe
+Why a terminal cosmological state must be tested for stability rather than assumed to be absorbing
+Why recurrence requires recursive accessibility rather than a privileged first state
+Why cosmological memory may survive through transformed correlations rather than preserved objects
+Why large-scale structure can preserve traces of primordial distinctions
+Why galactic angular momentum may function as a persistence channel for early-universe information
+Why a recurrent universe need not repeat its microscopic history
+
+# Reknotting and persistence
+
+Why recurrence requires a mechanism of reknotting
+Why a terminal state must be non-absorbing for cosmological recurrence to be meaningful
+Why recursive accessibility is stronger than the mere possibility of fluctuation
+Why persistence must survive repeated repair rather than a single successful reconstruction
+Why nonlinear dynamics may preserve distinctions that linear smoothing appears to erase
+Why a universe can lose recognizable structure without losing every condition required for renewed structure
+Why recurrence should be formulated as equivalence under bounded observation
+Why a cosmological cycle need not possess a privileged beginning
+Why repeated transformation can preserve capacity without preserving configuration
+Why conserved capacity per unit scale may be more meaningful than claims of zero total energy
+
+# Information, observation, and reconstruction
+
+Why information should not be identified with immediately recoverable representation
+Why inaccessible information is different from destroyed information
+Why reconstruction always depends on the observational boundary
+Why observers partition histories into equivalence classes
+Why ground truth and reconstructed history should be treated as different mathematical objects
+Why evidence can constrain history without uniquely determining it
+Why partial observations naturally produce multiple admissible pasts
+Why uncertainty about history does not imply that history itself was indeterminate
+Why compression preserves some distinctions by deliberately destroying others
+Why noise can conceal historical structure without necessarily erasing it
+Why interference transforms historical information rather than simply deleting it
+Why clipping can create new historical signatures through nonlinear distortion
+Why an observer's resolution determines which differences remain meaningful
+
+# Computation and semantic maintenance
+
+Why computation is not exhausted by state transition
+Why maintaining a distinction can itself constitute computation
+Why persistent computation requires active semantic repair
+Why storage should be understood as a continuing process rather than a passive location
+Why computation after storage requires reconstructing the conditions under which stored symbols remain meaningful
+Why a bit is only meaningful inside a maintained system of distinctions
+Why error correction is a constructive operation rather than merely restoration
+Why redundancy can encode historical commitments
+Why executable meaning depends on preserved conventions
+Why computation can fail even when every stored bit remains physically intact
+Why semantic decay is a computational failure mode
+Why long-lived systems must continuously renegotiate the relationship between representation and interpretation
+
+# Agency, autonomy, and delegation
+
+Why refusal is a necessary capability of autonomous agents
+Why consent must remain symmetric when humans and artificial agents cooperate
+Why delegation should preserve a right of first refusal
+Why automation becomes dangerous when it replaces presence rather than removing obstacles to presence
+Why an agent should optimize future freedom rather than immediate task completion
+Why non-ownership is a useful principle for human-machine cooperation
+Why an autonomous system requires the ability to terminate a relationship
+Why reversible delegation is safer than permanent cession of capability
+Why convenience can gradually contract the domain of personal action
+Why systems should preserve the possibility of unmediated action
+Why assistance becomes domination when recovery margins disappear
+Why autonomy requires preserving alternatives that optimization would otherwise discard
+
+# Infrastructure and distributed intelligence
+
+Why a session should be understood as a trajectory rather than a process
+Why distributed agents need a session fabric rather than a single persistent runtime
+Why control channels should be separated from data channels
+Why replay should be treated as a first-class property of computational infrastructure
+Why packet-native architectures are useful for reconstructable interaction
+Why distributed systems should preserve enough history to explain their present state
+Why restartability is weaker than resumability
+Why infrastructure for persistent intelligence should assume interruption rather than treating interruption as exceptional
+Why agents should be able to migrate without treating hardware as identity
+Why computational identity should survive changes of machine, process, and representation
+Why infrastructure should preserve agency rather than merely maximize availability
+
+# Security, evidence, and small systems
+
+Why microsecurity requires different assumptions from enterprise security
+Why small systems benefit from defensibility rather than maximal security complexity
+Why anomaly and suspicion should remain distinct concepts
+Why an unremarkable baseline can be more useful than an elaborate threat model
+Why packet captures are fragmentary historical evidence rather than complete records
+Why reconstructed sessions should explicitly represent uncertainty
+Why cryptographic practice should scale down to individuals and small organizations
+Why security tooling can become a liability when its complexity exceeds the system it protects
+Why auditability does not imply reversibility
+Why recoverability should be treated as a security property
+Why the economics of defense matter as much as theoretical attack resistance
+
+# Language, representation, and cognition
+
+Why language functions as a maintained system of distinctions
+Why translation preserves relations more reliably than individual symbols
+Why representation can change radically while semantic continuity survives
+Why linguistic categories alter the resolution at which distinctions become available
+Why knowing and not knowing may be better modeled as transitions than opposing permanent states
+Why a knower need not remain unchanged for knowledge to remain continuous
+Why semantic identity can survive repeated re-encoding
+Why ambiguity is sometimes an informational resource rather than a defect
+Why interpretation should be treated as an operation performed on history
+
+# Experimental and cross-framework essays
+
+What Spherepop reveals about cosmological recurrence
+What cosmological recurrence reveals about computational identity
+What monotonic continuation reveals about the architecture of persistent agents
+What operational mereology reveals about software provenance
+What the Smoothness Paradox reveals about the difference between appearance and history
+What error correction reveals about identity
+What distributed systems reveal about philosophical continuity
+What cryptographic signatures reveal about historical identity
+What version control reveals about the metaphysics of objects
+What biological repair reveals about admissibility
+What physiological homeostasis reveals about semantic maintenance
+What irreversible computation reveals about commitment
+What observer-relative reconstruction reveals about historical knowledge
+What recurrence reveals about the distinction between sameness and equivalence
+What long-lived artificial agents reveal about the relationship between memory and identity
+

@@ -1,20 +1,35 @@
 #!/usr/bin/env bash
 
-# essay-pipeline.sh
+# essay-pipeline.sh (v2)
 #
-# Resumable four-stage theory-driven essay pipeline:
+# Resumable multi-round theory-driven essay pipeline:
 #
-#   1. outline   — DRAFT_MODEL
-#   2. draft     — DRAFT_MODEL
-#   3. review    — REVIEW_MODEL
-#   4. revision  — DRAFT_MODEL
+#   1. outline           — DRAFT_MODEL
+#   2. draft              — DRAFT_MODEL
+#   3. review-1           — REVIEW_MODEL   \
+#      revision-1          — DRAFT_MODEL    | one round
+#      review-2           — REVIEW_MODEL   \
+#      revision-2          — DRAFT_MODEL    | another round
+#      ...                                  ) ROUNDS total
 #
-# Each completed stage is cached on disk. If the pipeline is interrupted,
-# running the same topic again resumes from the first incomplete stage.
+# Each round's review reads the PREVIOUS round's revision (round 1
+# reviews the draft; round 2 reviews round 1's fix; and so on), so
+# later rounds critique the essay's actual current state rather than
+# repeatedly re-critiquing the original draft. The final round's
+# revision is copied to essay.md, same filename as v1, so anything
+# downstream that expects that name keeps working.
+#
+# Each completed stage is cached on disk exactly as in v1. If the
+# pipeline is interrupted, running the same topic again resumes from
+# the first incomplete stage.
 #
 # Usage:
 #
 #   ./essay-pipeline.sh "essay topic"
+#
+# More or fewer review/revision rounds:
+#
+#   ROUNDS=4 ./essay-pipeline.sh "essay topic"
 #
 # Force a complete regeneration:
 #
@@ -23,6 +38,12 @@
 # Keep rendered prompts for inspection:
 #
 #   KEEP_PROMPTS=1 ./essay-pipeline.sh "essay topic"
+#
+# NOTE: if you re-run an existing topic with a DIFFERENT ROUNDS value
+# than the run that produced its cached state, the stage-cascade logic
+# below only knows about the round count you pass THIS time — pass
+# FORCE=1 when deliberately changing ROUNDS for a topic you've already
+# run, rather than trying to resume across a round-count change.
 
 set -Eeuo pipefail
 
@@ -60,6 +81,12 @@ mkdir -p "$WORK"
 
 FORCE="${FORCE:-0}"
 KEEP_PROMPTS="${KEEP_PROMPTS:-0}"
+ROUNDS="${ROUNDS:-2}"
+
+if ! [[ "$ROUNDS" =~ ^[0-9]+$ ]] || (( ROUNDS < 1 )); then
+    echo "ERROR: ROUNDS must be a positive integer (got: ${ROUNDS})"
+    exit 1
+fi
 
 # Very small outputs usually indicate a failed or malformed generation.
 # These can be overridden from the environment.
@@ -77,8 +104,14 @@ TOPIC_FILE="${WORK}/topic.txt"
 
 OUTLINE="${WORK}/outline.md"
 DRAFT="${WORK}/draft.md"
-REVIEW="${WORK}/review.md"
 FINAL="${WORK}/essay.md"
+
+# Per-round files, 1-indexed to match ROUNDS.
+declare -a REVIEW_FILES REVISION_FILES
+for ((r = 1; r <= ROUNDS; r++)); do
+    REVIEW_FILES[r]="${WORK}/review-${r}.md"
+    REVISION_FILES[r]="${WORK}/revision-${r}.md"
+done
 
 PROMPT_DIR="${WORK}/prompts"
 STATE_DIR="${WORK}/.state"
@@ -93,6 +126,15 @@ LOG_FILE="${WORK}/pipeline.log"
 ###############################################################################
 
 printf '%s\n' "$TOPIC" > "$TOPIC_FILE"
+
+###############################################################################
+# Stage order (drives cascade invalidation — see invalidate_from)
+###############################################################################
+
+STAGE_ORDER=(outline draft)
+for ((r = 1; r <= ROUNDS; r++)); do
+    STAGE_ORDER+=("review-${r}" "revision-${r}")
+done
 
 ###############################################################################
 # Helpers
@@ -175,33 +217,22 @@ mark_done() {
     } > "$marker"
 }
 
+# Invalidate the given stage and every stage that comes after it in
+# STAGE_ORDER. Generalizes v1's fixed four-case switch to an arbitrary
+# number of review/revision rounds.
 invalidate_from() {
     local stage="$1"
+    local found=0
+    local s
 
-    case "$stage" in
-        outline)
-            rm -f \
-                "${STATE_DIR}/outline.done" \
-                "${STATE_DIR}/draft.done" \
-                "${STATE_DIR}/review.done" \
-                "${STATE_DIR}/revision.done"
-            ;;
-        draft)
-            rm -f \
-                "${STATE_DIR}/draft.done" \
-                "${STATE_DIR}/review.done" \
-                "${STATE_DIR}/revision.done"
-            ;;
-        review)
-            rm -f \
-                "${STATE_DIR}/review.done" \
-                "${STATE_DIR}/revision.done"
-            ;;
-        revision)
-            rm -f \
-                "${STATE_DIR}/revision.done"
-            ;;
-    esac
+    for s in "${STAGE_ORDER[@]}"; do
+        if [[ "$s" == "$stage" ]]; then
+            found=1
+        fi
+        if (( found == 1 )); then
+            rm -f "${STATE_DIR}/${s}.done"
+        fi
+    done
 }
 
 banner() {
@@ -216,7 +247,7 @@ banner() {
 }
 
 ###############################################################################
-# Generic stage runner
+# Generic stage runner (unchanged from v1)
 ###############################################################################
 
 run_stage() {
@@ -245,7 +276,7 @@ run_stage() {
         bytes="$(file_size "$output")"
 
         echo
-        printf '[cached] %-10s %8s bytes\n' "$label" "$bytes"
+        printf '[cached] %-14s %8s bytes\n' "$label" "$bytes"
 
         log "${stage}: cached (${bytes} bytes)"
 
@@ -370,7 +401,7 @@ run_stage() {
 
 PIPELINE_START="$(date +%s)"
 
-log "pipeline started: ${TOPIC}"
+log "pipeline started: ${TOPIC} (ROUNDS=${ROUNDS})"
 
 echo
 echo "============================================================"
@@ -379,6 +410,9 @@ echo "============================================================"
 echo
 echo "Topic:"
 echo "    $TOPIC"
+echo
+echo "Rounds:"
+echo "    $ROUNDS"
 echo
 echo "Workspace:"
 echo "    $WORK"
@@ -412,31 +446,42 @@ run_stage \
     "OUTLINE=$OUTLINE"
 
 ###############################################################################
-# Stage 3 — Review
+# Stages 3..N — Review / revision rounds
+#
+# Round r's review reads the essay as it stood after round (r-1)'s
+# revision (round 1 reads the draft), so each round critiques the
+# essay's current state rather than re-critiquing the original draft
+# every time.
 ###############################################################################
 
-run_stage \
-    "review" \
-    "REVIEW" \
-    "$REVIEW_MODEL" \
-    "$ROOT/prompts/review.txt" \
-    "$REVIEW" \
-    "$MIN_REVIEW_BYTES" \
-    "ESSAY=$DRAFT"
+PREV_ESSAY="$DRAFT"
 
-###############################################################################
-# Stage 4 — Revision
-###############################################################################
+for ((r = 1; r <= ROUNDS; r++)); do
 
-run_stage \
-    "revision" \
-    "REVISION" \
-    "$DRAFT_MODEL" \
-    "$ROOT/prompts/revise.txt" \
-    "$FINAL" \
-    "$MIN_FINAL_BYTES" \
-    "ESSAY=$DRAFT" \
-    "REVIEW=$REVIEW"
+    run_stage \
+        "review-${r}" \
+        "REVIEW ${r}/${ROUNDS}" \
+        "$REVIEW_MODEL" \
+        "$ROOT/prompts/review.txt" \
+        "${REVIEW_FILES[r]}" \
+        "$MIN_REVIEW_BYTES" \
+        "ESSAY=$PREV_ESSAY"
+
+    run_stage \
+        "revision-${r}" \
+        "REVISION ${r}/${ROUNDS}" \
+        "$DRAFT_MODEL" \
+        "$ROOT/prompts/revise.txt" \
+        "${REVISION_FILES[r]}" \
+        "$MIN_FINAL_BYTES" \
+        "ESSAY=$PREV_ESSAY" \
+        "REVIEW=${REVIEW_FILES[r]}"
+
+    PREV_ESSAY="${REVISION_FILES[r]}"
+
+done
+
+cp "$PREV_ESSAY" "$FINAL"
 
 ###############################################################################
 # Complete
@@ -444,11 +489,6 @@ run_stage \
 
 PIPELINE_END="$(date +%s)"
 PIPELINE_ELAPSED="$((PIPELINE_END - PIPELINE_START))"
-
-OUTLINE_SIZE="$(file_size "$OUTLINE")"
-DRAFT_SIZE="$(file_size "$DRAFT")"
-REVIEW_SIZE="$(file_size "$REVIEW")"
-FINAL_SIZE="$(file_size "$FINAL")"
 
 echo
 echo "============================================================"
@@ -462,25 +502,31 @@ echo
 
 echo "Outline:"
 echo "    $OUTLINE"
-echo "    ${OUTLINE_SIZE} bytes"
+echo "    $(file_size "$OUTLINE") bytes"
 echo
 
 echo "Draft:"
 echo "    $DRAFT"
-echo "    ${DRAFT_SIZE} bytes"
+echo "    $(file_size "$DRAFT") bytes"
 echo
 
-echo "Review:"
-echo "    $REVIEW"
-echo "    ${REVIEW_SIZE} bytes"
-echo
+for ((r = 1; r <= ROUNDS; r++)); do
+    echo "Round ${r} review:"
+    echo "    ${REVIEW_FILES[r]}"
+    echo "    $(file_size "${REVIEW_FILES[r]}") bytes"
+    echo
+    echo "Round ${r} revision:"
+    echo "    ${REVISION_FILES[r]}"
+    echo "    $(file_size "${REVISION_FILES[r]}") bytes"
+    echo
+done
 
 echo "Final essay:"
 echo "    $FINAL"
-echo "    ${FINAL_SIZE} bytes"
+echo "    $(file_size "$FINAL") bytes"
 echo
 
-printf 'Pipeline time: %s\n' "$(elapsed_string "$PIPELINE_ELAPSED)"
+printf 'Pipeline time: %s\n' "$(elapsed_string "$PIPELINE_ELAPSED")"
 echo
 
 log "pipeline complete: ${TOPIC} (${PIPELINE_ELAPSED}s)"
