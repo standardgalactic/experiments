@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1">
+
+  <meta
+    name="description"
+    content="Interactive experiment in degradation, capability loss, admissible continuation, shedding, compensation, and refusal.">
+
+  <title>Admissible Degradation — EXP 002</title>
+
+  <link rel="stylesheet" href="../../../assets/site.css">
+  <link rel="stylesheet" href="experiment.css">
+</head>
+
+<body>
+<main>
+
+  <nav>
+    <a href="../../">← programming experiments</a>
+    <a href="../../../">laboratory</a>
+  </nav>
+
+
+  <header class="experiment-header">
+
+    <div class="eyebrow">
+      Programming Experiment / 002
+    </div>
+
+    <h1>Admissible Degradation</h1>
+
+    <p class="lede">
+      How much damage can a system absorb while preserving the
+      conditions required for legitimate continuation?
+    </p>
+
+    <div class="experiment-meta">
+      <span>Theory: Admissible Degradation</span>
+      <span class="status status-prototype">prototype</span>
+    </div>
+
+  </header>
+
+
+  <section>
+
+    <div class="section-title">
+      Experimental Claim
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        System health and continuation admissibility are not the same
+        quantity. A system may lose substantial capability while
+        remaining entitled to continue if its required obligations
+        remain satisfiable. Conversely, loss of a single critical
+        obligation may make continuation inadmissible even when most
+        of the system remains operational.
+      </p>
+
+      <p>
+        Degradation should therefore be evaluated structurally rather
+        than as a scalar percentage of surviving components.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Current System State
+    </div>
+
+    <div class="apparatus">
+
+      <div class="state-panel">
+
+        <div class="state-label">
+          CONTINUATION STATUS
+        </div>
+
+        <div
+          id="system-state"
+          class="system-state normal">
+          NORMAL
+        </div>
+
+        <div
+          id="state-description"
+          class="state-description">
+          All required and optional capabilities are available.
+        </div>
+
+      </div>
+
+
+      <div class="metrics">
+
+        <div class="metric">
+          <span
+            id="health-value"
+            class="metric-value">
+            100%
+          </span>
+
+          <span class="metric-label">
+            physical health
+          </span>
+        </div>
+
+
+        <div class="metric">
+          <span
+            id="required-value"
+            class="metric-value">
+            4 / 4
+          </span>
+
+          <span class="metric-label">
+            required obligations
+          </span>
+        </div>
+
+
+        <div class="metric">
+          <span
+            id="optional-value"
+            class="metric-value">
+            3 / 3
+          </span>
+
+          <span class="metric-label">
+            optional capabilities
+          </span>
+        </div>
+
+
+        <div class="metric">
+          <span
+            id="continuations-value"
+            class="metric-value">
+            0
+          </span>
+
+          <span class="metric-label">
+            successful continuations
+          </span>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Capability Structure
+    </div>
+
+    <p class="section-note">
+      Required obligations determine whether continuation remains
+      admissible. Optional capabilities may be lost or deliberately
+      shed without necessarily invalidating continuation.
+    </p>
+
+    <div
+      id="capability-grid"
+      class="capability-grid">
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Experimental Controls
+    </div>
+
+    <div class="button-row">
+
+      <button id="random-failure">
+        Apply Random Failure
+      </button>
+
+      <button id="shed-optional">
+        Shed Optional Capability
+      </button>
+
+      <button id="break-required">
+        Break Required Capability
+      </button>
+
+      <button id="attempt-continuation">
+        Attempt Continuation
+      </button>
+
+      <button id="compensate">
+        Attempt Compensation
+      </button>
+
+      <button id="reset">
+        Reset Experiment
+      </button>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Admissibility Evaluation
+    </div>
+
+    <div class="evaluation-grid">
+
+      <div class="evaluation-box">
+
+        <span class="evaluation-label">
+          SYSTEM RUNNING
+        </span>
+
+        <strong id="running-evaluation">
+          YES
+        </strong>
+
+        <p>
+          Whether enough machinery remains for the program to execute.
+        </p>
+
+      </div>
+
+
+      <div class="evaluation-box">
+
+        <span class="evaluation-label">
+          REQUIRED OBLIGATIONS SATISFIABLE
+        </span>
+
+        <strong id="obligation-evaluation">
+          YES
+        </strong>
+
+        <p>
+          Whether the capabilities required for legitimate
+          continuation remain available.
+        </p>
+
+      </div>
+
+
+      <div class="evaluation-box">
+
+        <span class="evaluation-label">
+          CONTINUATION ADMISSIBLE
+        </span>
+
+        <strong id="admissibility-evaluation">
+          YES
+        </strong>
+
+        <p>
+          Whether the system may legitimately continue in its current
+          configuration.
+        </p>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Degradation Trajectory
+    </div>
+
+    <div
+      id="trajectory"
+      class="trajectory">
+
+      <div class="trajectory-empty">
+        No events recorded.
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Event Ledger
+    </div>
+
+    <div class="ledger-wrap">
+
+      <table class="ledger">
+
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>event</th>
+            <th>target</th>
+            <th>health</th>
+            <th>required</th>
+            <th>optional</th>
+            <th>status</th>
+          </tr>
+        </thead>
+
+        <tbody id="ledger-body">
+        </tbody>
+
+      </table>
+
+      <div
+        id="ledger-empty"
+        class="ledger-empty">
+        No events recorded.
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Observation
+    </div>
+
+    <div class="lab-panel">
+
+      <p id="observation">
+        No degradation has yet been introduced.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Manipulation
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        Individual capabilities can fail. Optional capabilities can
+        also be deliberately shed. Required capabilities determine
+        continuation admissibility, while optional capabilities
+        contribute to physical system health without independently
+        determining whether continuation is legitimate.
+      </p>
+
+      <p>
+        Compensation attempts to restore a failed required obligation
+        through a designated surviving fallback capability. A
+        successful compensation does not erase the original failure:
+        both events remain in the ledger.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Competing Interpretation
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        The observed behavior could be represented as ordinary fault
+        tolerance with critical and noncritical components. The
+        experiment therefore does not establish that admissible
+        degradation requires a novel computational mechanism.
+      </p>
+
+      <p>
+        Its purpose is narrower: to test whether separating physical
+        survival from continuation admissibility exposes distinctions
+        that disappear under a scalar health model.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Embarrassment Condition
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        The motivating interpretation becomes less useful if
+        continuation admissibility can be predicted adequately from
+        aggregate component survival alone, if required and optional
+        losses never produce meaningfully different trajectories, or
+        if compensation and shedding add no distinctions beyond a
+        conventional health score.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <footer>
+
+    <span>
+      standardgalactic / experiments / programming
+    </span>
+
+    <span>
+      EXP 002 / prototype
+    </span>
+
+  </footer>
+
+</main>
+
+<script src="experiment.js"></script>
+
+</body>
+</html>

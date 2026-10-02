@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+  <meta name="description"
+        content="Interactive experiment in explicit control, automatic execution, perturbation, and return to explicit control.">
+
+  <title>Aspect Relegation — EXP 001</title>
+
+  <link rel="stylesheet" href="../../../assets/site.css">
+  <link rel="stylesheet" href="experiment.css">
+</head>
+
+<body>
+<main>
+
+  <nav>
+    <a href="../../">← programming experiments</a>
+    <a href="../../../">laboratory</a>
+  </nav>
+
+
+  <header class="experiment-header">
+
+    <div class="eyebrow">
+      Programming Experiment / 001
+    </div>
+
+    <h1>Aspect Relegation</h1>
+
+    <p class="lede">
+      When can an explicitly controlled operation disappear into
+      automatic execution, and what forces it back into explicit
+      control?
+    </p>
+
+    <div class="experiment-meta">
+      <span>Theory: Aspect Relegation Theory</span>
+      <span class="status status-prototype">prototype</span>
+    </div>
+
+  </header>
+
+
+  <section>
+
+    <div class="section-title">
+      Experimental Claim
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        Repeated successful handling of a stable operation permits
+        aspects of that operation to be relegated from explicit
+        control to automatic execution. Relegation is therefore not
+        simple deletion. The relegated operation remains conditionally
+        available to explicit control when prediction error,
+        environmental change, or failure exceeds an admissible
+        threshold.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Apparatus
+    </div>
+
+    <div class="apparatus">
+
+      <div class="state-panel">
+
+        <div class="state-label">
+          CURRENT CONTROL STATE
+        </div>
+
+        <div id="control-state"
+             class="control-state explicit">
+          EXPLICIT
+        </div>
+
+        <div id="state-description"
+             class="state-description">
+          Operation is under explicit control.
+        </div>
+
+      </div>
+
+
+      <div class="metrics">
+
+        <div class="metric">
+          <span id="trial-value"
+                class="metric-value">0</span>
+          <span class="metric-label">trial</span>
+        </div>
+
+        <div class="metric">
+          <span id="success-value"
+                class="metric-value">0</span>
+          <span class="metric-label">stable successes</span>
+        </div>
+
+        <div class="metric">
+          <span id="error-value"
+                class="metric-value">0.00</span>
+          <span class="metric-label">prediction error</span>
+        </div>
+
+        <div class="metric">
+          <span id="environment-value"
+                class="metric-value">A</span>
+          <span class="metric-label">environment</span>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Experimental Controls
+    </div>
+
+    <div class="control-grid">
+
+      <div class="control-box">
+
+        <label for="relegation-threshold">
+          Successful repetitions before relegation
+        </label>
+
+        <input
+          id="relegation-threshold"
+          type="range"
+          min="1"
+          max="12"
+          value="5">
+
+        <output id="relegation-output">
+          5
+        </output>
+
+      </div>
+
+
+      <div class="control-box">
+
+        <label for="return-threshold">
+          Error threshold for return to explicit control
+        </label>
+
+        <input
+          id="return-threshold"
+          type="range"
+          min="0"
+          max="100"
+          value="35">
+
+        <output id="return-output">
+          0.35
+        </output>
+
+      </div>
+
+    </div>
+
+
+    <div class="button-row">
+
+      <button id="run-trial">
+        Run Stable Trial
+      </button>
+
+      <button id="run-series">
+        Run 10 Trials
+      </button>
+
+      <button id="perturb">
+        Perturb Environment
+      </button>
+
+      <button id="restore">
+        Restore Environment
+      </button>
+
+      <button id="reset">
+        Reset Experiment
+      </button>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Control Trajectory
+    </div>
+
+    <div id="trajectory"
+         class="trajectory">
+
+      <div class="trajectory-empty">
+        No trials recorded.
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Event Ledger
+    </div>
+
+    <div class="ledger-wrap">
+
+      <table class="ledger">
+
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>event</th>
+            <th>control</th>
+            <th>environment</th>
+            <th>error</th>
+            <th>successes</th>
+          </tr>
+        </thead>
+
+        <tbody id="ledger-body">
+        </tbody>
+
+      </table>
+
+      <div id="ledger-empty"
+           class="ledger-empty">
+        No events recorded.
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Manipulation
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        Relegation threshold and return threshold are independently
+        adjustable. Stable trials reinforce the currently successful
+        operation. Perturbation changes the environment while leaving
+        the automatic operation initially unchanged. This creates a
+        mismatch between the learned operation and its conditions.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Observation
+    </div>
+
+    <div class="lab-panel">
+
+      <p id="observation">
+        No observation yet. Run repeated stable trials and watch for
+        the transition from explicit to automatic control.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Competing Interpretation
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        The behavior could be explained without invoking a distinct
+        relegation process. A sufficiently ordinary thresholded
+        controller with cached behavior can produce the same state
+        transitions. The experiment therefore operationalizes a
+        distinction proposed by Aspect Relegation Theory; it does not
+        by itself establish that human cognition implements this
+        particular mechanism.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-title">
+      Embarrassment Condition
+    </div>
+
+    <div class="lab-panel">
+
+      <p>
+        The motivating interpretation becomes less useful if
+        automatic execution cannot be distinguished experimentally
+        from simple persistence, if environmental mismatch provides
+        no principled reason for return to explicit control, or if
+        the same observations are explained equally well without
+        distinguishing explicit and relegated aspects.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <footer>
+    <span>
+      standardgalactic / experiments / programming
+    </span>
+
+    <span>
+      EXP 001 / prototype
+    </span>
+  </footer>
+
+</main>
+
+<script src="experiment.js"></script>
+
+</body>
+</html>

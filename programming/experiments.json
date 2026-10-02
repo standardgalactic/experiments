@@ -1,0 +1,98 @@
+[
+  {
+    "id": "001",
+    "slug": "aspect-relegation",
+    "title": "Aspect Relegation",
+    "status": "prototype",
+    "theory": "Aspect Relegation Theory",
+    "question": "When can an explicitly controlled operation disappear into automatic execution, and what forces it back into explicit control?"
+  },
+  {
+    "id": "002",
+    "slug": "admissible-degradation",
+    "title": "Admissible Degradation",
+    "status": "prototype",
+    "theory": "Admissible Degradation",
+    "question": "How much damage can a system absorb while preserving the conditions required for legitimate continuation?"
+  },
+  {
+    "id": "003",
+    "slug": "continuation",
+    "title": "Continuation",
+    "status": "scaffold",
+    "theory": "Continuation Geometry",
+    "question": "What can reachable trajectories tell us that inspection of the present state cannot?"
+  },
+  {
+    "id": "004",
+    "slug": "repair-and-difference",
+    "title": "Repair and Difference",
+    "status": "scaffold",
+    "theory": "Difference-Preserving Repair",
+    "question": "Can a repair restore immediate function while destroying distinctions required for future behavior?"
+  },
+  {
+    "id": "005",
+    "slug": "refusal",
+    "title": "Refusal",
+    "status": "scaffold",
+    "theory": "Explicit Refusal",
+    "question": "What changes when refusal is represented as an explicit state transition rather than as missing output?"
+  },
+  {
+    "id": "006",
+    "slug": "replay",
+    "title": "Replay",
+    "status": "scaffold",
+    "theory": "Persistent State",
+    "question": "What information must an event history preserve for reconstruction to remain semantically adequate?"
+  },
+  {
+    "id": "007",
+    "slug": "defeat",
+    "title": "Defeat",
+    "status": "scaffold",
+    "theory": "Adversaria",
+    "question": "How does policy-relative defeat differ computationally from the structural existence of an attack?"
+  },
+  {
+    "id": "008",
+    "slug": "no-scalar",
+    "title": "No Scalar",
+    "status": "scaffold",
+    "theory": "Scalar Inadequacy",
+    "question": "Which distinctions disappear when multidimensional standing is compressed into a single score?"
+  },
+  {
+    "id": "009",
+    "slug": "projection",
+    "title": "Projection",
+    "status": "scaffold",
+    "theory": "Projection and Interface",
+    "question": "What properties survive when a richer object is exposed through a restricted interface?"
+  },
+  {
+    "id": "010",
+    "slug": "unfinishedness",
+    "title": "Unfinishedness",
+    "status": "scaffold",
+    "theory": "Unfinishedness as Interface",
+    "question": "Can deliberately retained attachment points increase future reachability compared with completed structures?"
+  },
+  {
+    "id": "011",
+    "slug": "smoothness",
+    "title": "Smoothness",
+    "status": "scaffold",
+    "theory": "The Smoothness Paradox",
+    "question": "When does smooth observable behavior conceal discontinuity or divergence in the process producing it?"
+  },
+  {
+    "id": "012",
+    "slug": "mem8",
+    "title": "MEM|8",
+    "status": "scaffold",
+    "theory": "MEM|8",
+    "question": "What becomes observable when transformation is decomposed into explicit POP, REFUSE, BIND, TRANSFORM, VERIFY, and COLLAPSE operations?"
+  }
+]

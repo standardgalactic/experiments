@@ -1,0 +1,2660 @@
+1
+00:00:00,000 --> 00:00:07,660
+So what if I told you that the math making your laptop physically hot right now is the
+
+2
+00:00:07,660 --> 00:00:13,560
+exact same geometry that forced ancient humans to change how they conjugate their verbs?
+
+3
+00:00:13,960 --> 00:00:16,500
+I mean, it sounds completely absurd on its face, right?
+
+4
+00:00:16,520 --> 00:00:17,120
+It really does.
+
+5
+00:00:17,560 --> 00:00:22,920
+But today, we are taking a deep dive into a theory that claims to have found basically
+
+6
+00:00:22,920 --> 00:00:24,600
+the universal source code.
+
+7
+00:00:24,760 --> 00:00:24,940
+Yeah.
+
+8
+00:00:25,240 --> 00:00:29,740
+And usually, you know, when we think about the rules governing our reality, we put them
+
+9
+00:00:29,740 --> 00:00:31,620
+into these completely separate airtight boxes.
+
+10
+00:00:31,900 --> 00:00:32,120
+Mm-hmm.
+
+11
+00:00:32,420 --> 00:00:32,860
+Absolutely.
+
+12
+00:00:33,000 --> 00:00:34,040
+We compartmentalize everything.
+
+13
+00:00:34,200 --> 00:00:34,360
+Right.
+
+14
+00:00:34,620 --> 00:00:36,020
+There's the box for quantum physics.
+
+15
+00:00:36,220 --> 00:00:37,960
+There's the box for electrical engineering.
+
+16
+00:00:38,060 --> 00:00:41,860
+And then, like, way over on the other side of the building, there's the box for cognitive
+
+17
+00:00:41,860 --> 00:00:43,440
+neuroscience and human culture.
+
+18
+00:00:43,560 --> 00:00:43,800
+Yeah.
+
+19
+00:00:43,860 --> 00:00:48,000
+We just assume that the math used to design a silicon microchip has absolutely nothing
+
+20
+00:00:48,000 --> 00:00:51,080
+to do with, say, the evolution of the English language.
+
+21
+00:00:51,180 --> 00:00:51,660
+Exactly.
+
+22
+00:00:51,960 --> 00:00:52,160
+Yeah.
+
+23
+00:00:52,160 --> 00:00:56,240
+But that assumption is exactly what we are challenging in this deep dive today.
+
+24
+00:00:56,240 --> 00:01:03,680
+We are looking at a massive and, I mean, wildly ambitious stack of academic manuscripts from
+
+25
+00:01:03,680 --> 00:01:05,300
+an independent researcher named Flixia.
+
+26
+00:01:05,600 --> 00:01:07,420
+And when we say massive, we're not kidding.
+
+27
+00:01:07,620 --> 00:01:12,500
+I mean, we are looking at papers covering everything from the thermodynamics of logic gates
+
+28
+00:01:12,500 --> 00:01:20,040
+to the neurobiology of consciousness, all the way to the geometric modeling of linguistic drift.
+
+29
+00:01:20,180 --> 00:01:21,000
+It's staggering.
+
+30
+00:01:21,260 --> 00:01:21,540
+It is.
+
+31
+00:01:21,700 --> 00:01:28,100
+The mission for us today is to really untangle this single mind-bending mathematical thread
+
+32
+00:01:28,100 --> 00:01:32,400
+that Flixian claims sews every single one of these fields together.
+
+33
+00:01:32,400 --> 00:01:36,600
+And that thread is a framework Flixian calls continuation geometry.
+
+34
+00:01:36,820 --> 00:01:37,080
+Right.
+
+35
+00:01:37,580 --> 00:01:42,680
+Which is heavily tied to something called the RSVP framework, the relativistic scalar vector
+
+36
+00:01:42,680 --> 00:01:43,040
+plenum.
+
+37
+00:01:43,140 --> 00:01:43,360
+Right.
+
+38
+00:01:43,600 --> 00:01:48,580
+I have to admit, when I first started reading this for our deep dive, I just felt this sheer
+
+39
+00:01:48,580 --> 00:01:50,360
+enthusiastic bewilderment.
+
+40
+00:01:50,460 --> 00:01:51,580
+Oh, I totally get that.
+
+41
+00:01:51,620 --> 00:01:52,640
+It's a lot to take in.
+
+42
+00:01:52,740 --> 00:01:57,500
+I mean, the sheer ambition to claim that a resistor on a circuit board and a thought in your cerebral
+
+43
+00:01:57,500 --> 00:02:02,580
+cortex are executing the exact same mathematical operation, it sounds like pure science fiction
+
+44
+00:02:02,580 --> 00:02:02,920
+to me.
+
+45
+00:02:03,160 --> 00:02:05,780
+It definitely reads like science fiction at first glance, I'll give you that.
+
+46
+00:02:05,960 --> 00:02:11,300
+But, and this is crucial, the foundational math is actually deeply rooted in established,
+
+47
+00:02:11,560 --> 00:02:13,020
+rigorously proven theories.
+
+48
+00:02:13,360 --> 00:02:13,560
+Right.
+
+49
+00:02:13,620 --> 00:02:14,440
+It's not just made up.
+
+50
+00:02:14,540 --> 00:02:14,880
+Exactly.
+
+51
+00:02:15,660 --> 00:02:20,200
+Flixian is drawing very heavily on the work of Tristan Needham, specifically his textbook
+
+52
+00:02:20,200 --> 00:02:21,800
+Visual Complex Analysis.
+
+53
+00:02:22,120 --> 00:02:22,360
+Okay.
+
+54
+00:02:22,360 --> 00:02:29,380
+What Flixian has done is take Needham's incredibly elegant way of visualizing complex math and
+
+55
+00:02:29,380 --> 00:02:33,400
+just push those concepts to their absolute furthest limits.
+
+56
+00:02:33,760 --> 00:02:40,180
+So, to even begin to understand how Flixian's universe works, we actually have to go all
+
+57
+00:02:40,180 --> 00:02:41,200
+the way back to the basics.
+
+58
+00:02:41,520 --> 00:02:42,080
+Right?
+
+59
+00:02:42,180 --> 00:02:45,300
+Like, we have to fix how we look at numbers themselves.
+
+60
+00:02:45,400 --> 00:02:46,100
+We really do.
+
+61
+00:02:46,200 --> 00:02:49,800
+We essentially have to completely relearn how to read the language of mathematics.
+
+62
+00:02:49,800 --> 00:02:54,760
+Which sounds daunting, but there is this fantastic entry point for this in our sources.
+
+63
+00:02:55,100 --> 00:03:00,500
+It's actually a piece of correspondence regarding Flixian's own handwritten math notation.
+
+64
+00:03:00,620 --> 00:03:01,280
+Oh, yeah.
+
+65
+00:03:01,400 --> 00:03:02,420
+This is a great story.
+
+66
+00:03:02,620 --> 00:03:02,760
+Yeah.
+
+67
+00:03:02,840 --> 00:03:07,540
+So, someone was trying to transcribe Flixian's handwritten notes into standard digital text,
+
+68
+00:03:07,740 --> 00:03:09,000
+and they hit a complete wall.
+
+69
+00:03:09,240 --> 00:03:14,500
+They saw this symbol and thought Flixian was just writing a sloppy tilde, you know, that little
+
+70
+00:03:14,500 --> 00:03:17,900
+squiggly line we use in math to mean approximately equal to.
+
+71
+00:03:17,940 --> 00:03:18,140
+Right.
+
+72
+00:03:18,200 --> 00:03:19,040
+Like, close enough.
+
+73
+00:03:19,040 --> 00:03:19,760
+Exactly.
+
+74
+00:03:20,460 --> 00:03:23,960
+But Flixian immediately corrected them, and it completely blew my mind why.
+
+75
+00:03:24,520 --> 00:03:30,080
+Well, the transcriber was just silently normalizing these symbols into standard asymptotic equivalents,
+
+76
+00:03:30,480 --> 00:03:33,580
+just assuming Flixian meant A is roughly equal to B.
+
+77
+00:03:33,820 --> 00:03:38,260
+But Flixian was deliberately using custom, highly specific symbols.
+
+78
+00:03:38,480 --> 00:03:43,760
+One of them looked like sideways square brackets facing each other, and another looked like back-to-back
+
+79
+00:03:43,760 --> 00:03:44,800
+rounded parentheses.
+
+80
+00:03:44,800 --> 00:03:48,060
+And the distinction there was critical, right?
+
+81
+00:03:48,280 --> 00:03:50,760
+Because Flixian wasn't talking about mere approximations.
+
+82
+00:03:50,920 --> 00:03:51,540
+Not at all.
+
+83
+00:03:51,680 --> 00:03:54,060
+This wasn't a casual, close enough situation.
+
+84
+00:03:54,680 --> 00:03:59,420
+Flixian was inventing a totally new notation for the infinitesimal limit.
+
+85
+00:03:59,420 --> 00:04:01,720
+Okay, let's unpack this for everyone listening.
+
+86
+00:04:02,180 --> 00:04:07,040
+Because, I mean, what does it actually mean to invent a new notation for the infinitesimal limit?
+
+87
+00:04:07,340 --> 00:04:09,180
+Well, think about how we usually treat algebra.
+
+88
+00:04:09,560 --> 00:04:13,840
+We treat it as an abstract game of moving letters around an equal sign, right?
+
+89
+00:04:14,000 --> 00:04:14,660
+Yeah, exactly.
+
+90
+00:04:14,660 --> 00:04:19,320
+But for Flixian, math is a description of physical geometric actions.
+
+91
+00:04:20,180 --> 00:04:23,920
+So when you look at two curves on a graph that are getting closer and closer together,
+
+92
+00:04:24,380 --> 00:04:28,380
+standard math just says, you know, as they go to infinity, they are basically the same.
+
+93
+00:04:28,580 --> 00:04:28,680
+Right.
+
+94
+00:04:29,120 --> 00:04:36,240
+Flixian's sideways brackets are a geometric notation showing how finite measurable increments in space
+
+95
+00:04:36,240 --> 00:04:42,840
+actually become their differential counterparts when you zoom in to the infinitesimal level.
+
+96
+00:04:42,840 --> 00:04:48,400
+So it's not just that they're close, it's a meticulous obsession with geometry over casual algebra.
+
+97
+00:04:48,720 --> 00:04:49,280
+Precisely.
+
+98
+00:04:49,640 --> 00:04:56,480
+When Flixian says A is ultimately equal to B, it means that at the deepest, most microscopic limit of reality,
+
+99
+00:04:57,040 --> 00:05:01,720
+the literal geometric shape of A and the geometric shape of B perfectly align.
+
+100
+00:05:01,840 --> 00:05:02,140
+Wow.
+
+101
+00:05:02,400 --> 00:05:06,740
+And that distinction, that really sets the stage for the core concept of this entire deep dive.
+
+102
+00:05:06,800 --> 00:05:07,260
+It does.
+
+103
+00:05:07,400 --> 00:05:10,960
+Because if math is always describing a physical geometric action,
+
+104
+00:05:10,960 --> 00:05:13,980
+then we have to completely rethink the numbers we learned in high school.
+
+105
+00:05:14,300 --> 00:05:16,200
+Specifically, this idea of the unsquared number.
+
+106
+00:05:16,380 --> 00:05:16,600
+Yes.
+
+107
+00:05:16,920 --> 00:05:18,280
+The unsquared number is key here.
+
+108
+00:05:18,560 --> 00:05:20,200
+I love this concept so much.
+
+109
+00:05:20,280 --> 00:05:22,160
+So think back to algebra class, right?
+
+110
+00:05:22,740 --> 00:05:25,820
+We are all taught about imaginary numbers.
+
+111
+00:05:26,260 --> 00:05:27,900
+Specifically, the letter I.
+
+112
+00:05:28,000 --> 00:05:29,960
+Everyone's favorite confusing math topic.
+
+113
+00:05:30,000 --> 00:05:30,400
+Exactly.
+
+114
+00:05:30,880 --> 00:05:34,740
+We are told that I is the square root of negative one.
+
+115
+00:05:34,740 --> 00:05:39,760
+Which, I don't know about you, but on its face, that always felt like a hack to me.
+
+116
+00:05:39,940 --> 00:05:40,480
+Oh, totally.
+
+117
+00:05:40,520 --> 00:05:42,840
+Like, you can't multiply a number by itself and get a negative.
+
+118
+00:05:43,180 --> 00:05:44,980
+A positive times a positive is positive.
+
+119
+00:05:45,100 --> 00:05:46,380
+A negative times a negative is positive.
+
+120
+00:05:46,760 --> 00:05:53,440
+So mathematicians just, like, invented this magical imaginary unit to make their equations balance out.
+
+121
+00:05:53,440 --> 00:06:00,500
+And that feeling, that feeling that it's a hack, is exactly what Tristan Needham and now Fliction are directly addressing.
+
+122
+00:06:01,180 --> 00:06:03,520
+We've been looking at the letter entirely wrong.
+
+123
+00:06:03,740 --> 00:06:07,540
+It is not a number in the traditional sense of counting apples or measuring a distance.
+
+124
+00:06:07,540 --> 00:06:09,520
+It is a geometric operator.
+
+125
+00:06:09,860 --> 00:06:12,840
+It is a literal instruction to twist space.
+
+126
+00:06:13,420 --> 00:06:14,720
+An instruction to twist space.
+
+127
+00:06:14,820 --> 00:06:15,900
+Okay, you've got to walk me through that.
+
+128
+00:06:15,960 --> 00:06:19,160
+Okay, imagine you are standing on a number line, right at the number one.
+
+129
+00:06:19,220 --> 00:06:20,180
+You are facing forward.
+
+130
+00:06:20,340 --> 00:06:20,720
+Got it.
+
+131
+00:06:20,720 --> 00:06:28,780
+Multiplying your position by I doesn't just change your quantity, it rotates you 90 degrees off that flat number line into a new dimension.
+
+132
+00:06:29,000 --> 00:06:30,240
+So now I'm facing sideways.
+
+133
+00:06:30,500 --> 00:06:32,480
+Right, so now you are standing at 1 times I.
+
+134
+00:06:32,800 --> 00:06:33,740
+You are looking sideways.
+
+135
+00:06:33,740 --> 00:06:37,580
+Now, if you multiply by I again, that is another 90 degree twist.
+
+136
+00:06:37,800 --> 00:06:41,060
+Ah, so now I'm facing entirely backward, pointing at negative 1.
+
+137
+00:06:41,260 --> 00:06:41,700
+Exactly.
+
+138
+00:06:42,360 --> 00:06:45,340
+The negative 1 didn't come from a magical abstract property.
+
+139
+00:06:45,660 --> 00:06:48,880
+It came from two consecutive 90 degree spatial rotations.
+
+140
+00:06:49,240 --> 00:06:50,460
+That makes so much more sense.
+
+141
+00:06:50,720 --> 00:06:53,300
+This is what Flickshen means by an unsquared number.
+
+142
+00:06:53,820 --> 00:07:00,500
+An imaginary number is a geometric torsion, a literal twist hiding in the disguise of an algebraic variable.
+
+143
+00:07:00,500 --> 00:07:04,500
+Which brings us to the most critical word in this entire framework, the Amplitwist.
+
+144
+00:07:05,420 --> 00:07:06,500
+Yes, the Amplitwist.
+
+145
+00:07:07,320 --> 00:07:12,500
+If we understand this, we essentially understand the engine of Flickshen's entire universe.
+
+146
+00:07:12,500 --> 00:07:17,220
+Every complex number does two things to space at the exact same time.
+
+147
+00:07:17,560 --> 00:07:21,440
+It scales the space, that's the amplitude, and it rotates the space.
+
+148
+00:07:21,880 --> 00:07:22,560
+That's the twist.
+
+149
+00:07:22,600 --> 00:07:23,100
+That's it.
+
+150
+00:07:23,220 --> 00:07:24,040
+Amplitude and twist.
+
+151
+00:07:24,380 --> 00:07:26,420
+So here is how I visualize it.
+
+152
+00:07:26,460 --> 00:07:27,820
+You tell me if I'm tracking this correctly.
+
+153
+00:07:28,000 --> 00:07:30,320
+Imagine you are holding your smartphone, right?
+
+154
+00:07:30,440 --> 00:07:32,080
+And you're looking at a digital map.
+
+155
+00:07:32,280 --> 00:07:32,540
+Okay.
+
+156
+00:07:32,540 --> 00:07:37,560
+You want to look at a specific neighborhood, but the map is sideways and it's way too zoomed out.
+
+157
+00:07:37,780 --> 00:07:39,840
+What do you physically do with your hand?
+
+158
+00:07:40,000 --> 00:07:40,780
+You pinch and turn.
+
+159
+00:07:41,020 --> 00:07:41,480
+Exactly.
+
+160
+00:07:41,760 --> 00:07:48,700
+You put two fingers on the screen, you pull them apart to zoom in, and at the exact same time, you twist your wrist to rotate the map.
+
+161
+00:07:49,100 --> 00:07:53,220
+You're scaling and rotating simultaneously in one fluid motion.
+
+162
+00:07:53,220 --> 00:08:01,820
+So is Flickshen saying that this literal pinch and twist action on your phone screen is the fundamental mathematical language of reality?
+
+163
+00:08:02,160 --> 00:08:05,660
+That analogy perfectly captures the 2D version of it, yes.
+
+164
+00:08:05,740 --> 00:08:08,540
+But obviously the universe doesn't live on a flat phone screen.
+
+165
+00:08:08,660 --> 00:08:08,860
+Right.
+
+166
+00:08:08,960 --> 00:08:10,760
+It's 3D or 4D with time.
+
+167
+00:08:10,880 --> 00:08:11,360
+Exactly.
+
+168
+00:08:11,680 --> 00:08:17,400
+So Flickshen takes that 2D pinch and twist and generalizes it into the four dimensions of space-time.
+
+169
+00:08:17,700 --> 00:08:21,860
+And to escape the flat plane, the math relies on something called Clifford Algebras.
+
+170
+00:08:21,860 --> 00:08:23,560
+Okay, Clifford Algebras.
+
+171
+00:08:23,720 --> 00:08:25,120
+That sounds incredibly intimidating.
+
+172
+00:08:25,280 --> 00:08:27,700
+How does a pinch and twist escape a flat plane using that?
+
+173
+00:08:28,040 --> 00:08:39,120
+I know it sounds dense, but without getting bogged down in the massive equations, just think of a Clifford Algebra as a mathematical toolkit that allows you to multiply directions together.
+
+174
+00:08:39,360 --> 00:08:40,040
+Multiply directions.
+
+175
+00:08:40,160 --> 00:08:40,400
+Yeah.
+
+176
+00:08:40,560 --> 00:08:43,120
+On your phone screen, you only have up, down, and left, right.
+
+177
+00:08:43,120 --> 00:08:52,500
+A Clifford Algebra lets you take that 2D rotation, add a third dimension of depth and a fourth dimension of time, and basically create a single mathematical object.
+
+178
+00:08:52,820 --> 00:08:53,800
+Like a field operator.
+
+179
+00:08:54,020 --> 00:08:54,520
+Exactly.
+
+180
+00:08:54,740 --> 00:08:58,740
+A field operator that can scale and twist in all of those directions at once.
+
+181
+00:08:58,740 --> 00:09:04,840
+The idea is that reality itself is not made of static objects sitting in some empty void.
+
+182
+00:09:05,440 --> 00:09:12,700
+Reality is a continuous flowing field that is constantly scaling, flowing, and twisting itself into new configurations.
+
+183
+00:09:13,040 --> 00:09:13,260
+Wow.
+
+184
+00:09:13,520 --> 00:09:18,100
+It turns the universe into this dynamic origami constantly folding and unfolding itself.
+
+185
+00:09:18,300 --> 00:09:19,520
+That's a great way to picture it.
+
+186
+00:09:19,520 --> 00:09:22,280
+But let's put this beautiful image to the test, right?
+
+187
+00:09:22,320 --> 00:09:27,960
+Because if this amplit list is really the fundamental language of reality, how does it handle the heavy lifting?
+
+188
+00:09:28,360 --> 00:09:32,280
+Let's take it into section 2 of our sources, which is quantum mechanics.
+
+189
+00:09:32,440 --> 00:09:32,600
+Right.
+
+190
+00:09:32,660 --> 00:09:33,560
+The ultimate test.
+
+191
+00:09:33,560 --> 00:09:38,640
+How does this apply to the most rigorous fundamental physics we have?
+
+192
+00:09:38,860 --> 00:09:44,420
+Well, that hurdle is addressed head-on in a paper titled Rotation Before Number.
+
+193
+00:09:44,420 --> 00:09:52,960
+And to understand the solution, we first have to acknowledge a massive elephant-in-the-room problem with the way we currently do quantum mechanics.
+
+194
+00:09:53,160 --> 00:09:53,660
+Oh, do tell.
+
+195
+00:09:53,860 --> 00:10:00,060
+The paper argues that standard quantum math is computationally perfect, but it is epistemically opaque.
+
+196
+00:10:00,780 --> 00:10:08,880
+Epistemically opaque, which is a very polite academic way of saying it gives us the absolute right answers, but completely hides the why.
+
+197
+00:10:09,100 --> 00:10:10,400
+That is exactly it.
+
+198
+00:10:10,460 --> 00:10:12,500
+It is the ultimate trap of abstraction.
+
+199
+00:10:12,500 --> 00:10:20,380
+Generations of physicists have inherited this incredibly powerful notation things like Schrodinger's equation and Hilbert spaces.
+
+200
+00:10:20,600 --> 00:10:22,760
+Now, remind us real quick, what is a Hilbert space?
+
+201
+00:10:22,900 --> 00:10:27,880
+A Hilbert space is basically just a mathematical arena with infinite dimensions where quantum states live.
+
+202
+00:10:28,060 --> 00:10:33,500
+And all of this math is heavily reliant on complex numbers, on that imaginary unit that we just talked about.
+
+203
+00:10:33,840 --> 00:10:35,600
+And it works perfectly in the lab.
+
+204
+00:10:35,600 --> 00:10:47,420
+I mean, we can predict particle behavior to absurd decimal places, but because it's written in the compressed language of algebra, we've lost the geometric intuition that generated it in the first book.
+
+205
+00:10:47,480 --> 00:10:48,360
+Compressed geometry.
+
+206
+00:10:48,840 --> 00:10:53,820
+The sources use that phrase, and it really stuck with the complex algebra, is just compressed geometry.
+
+207
+00:10:54,020 --> 00:10:54,280
+Yes.
+
+208
+00:10:54,280 --> 00:11:02,340
+When a physicist sees an eye in Schrodinger's equation, they just treat it as a mathematical necessity to make the wave function work.
+
+209
+00:11:02,960 --> 00:11:07,420
+But Flixson is saying, no, that eye is a geometric quarter turn hiding in plain sight.
+
+210
+00:11:07,580 --> 00:11:12,900
+It is a literal instruction for spatial torsion that got compressed into a single letter.
+
+211
+00:11:12,900 --> 00:11:17,040
+So to prove this, the source material does something totally wild.
+
+212
+00:11:17,440 --> 00:11:21,980
+It completely rebuilds quantum mechanics from scratch without using any complex numbers.
+
+213
+00:11:22,180 --> 00:11:23,880
+Yes, which is a massive undertaking.
+
+214
+00:11:24,140 --> 00:11:27,380
+It translates the whole thing into pure, uncompressed real numbers.
+
+215
+00:11:28,380 --> 00:11:33,040
+But I have a major pushback here, and I'm sure anyone who has studied math is thinking the same thing.
+
+216
+00:11:33,360 --> 00:11:42,260
+If you just swap complex numbers out and force everything into real numbers, don't you lose the extra dimensions that the imaginary numbers were holding onto?
+
+217
+00:11:42,260 --> 00:11:50,020
+You absolutely would lose information, yes, unless you expand the coordinate space to explicitly account for those rotations.
+
+218
+00:11:50,460 --> 00:11:54,940
+And Flixson does exactly this by introducing the real flag space QM.
+
+219
+00:11:55,360 --> 00:12:03,160
+It's a system where that imaginary unit is entirely replaced by a literal physical quarter turn matrix, which they call JF.
+
+220
+00:12:03,720 --> 00:12:05,440
+Okay, a physical quarter turn matrix.
+
+221
+00:12:05,600 --> 00:12:06,900
+How do we visualize that?
+
+222
+00:12:07,240 --> 00:12:10,940
+Okay, to visualize this, imagine a flagpole planted in the ground.
+
+223
+00:12:10,940 --> 00:12:15,040
+The position of the pole represents the probability of a quantum particle.
+
+224
+00:12:15,840 --> 00:12:22,140
+But in quantum mechanics, particles also have a hidden wave-like property that interferes with other particles.
+
+225
+00:12:22,300 --> 00:12:23,500
+Right, the weird wavy stuff.
+
+226
+00:12:23,720 --> 00:12:24,120
+Exactly.
+
+227
+00:12:24,360 --> 00:12:27,780
+So in the flag space, you don't just track the pole, you attach a flag to it.
+
+228
+00:12:28,000 --> 00:12:32,900
+The 2D flag system tracks not just where the pole is, but the exact geometric angle the flag is pointing.
+
+229
+00:12:32,920 --> 00:12:33,500
+Oh, that makes sense.
+
+230
+00:12:33,500 --> 00:12:46,000
+So instead of a magical abstract number that mathematically flips signs in an equation somewhere, you have a literal matrix that physically rotates the flag around the pole by 90 degrees.
+
+231
+00:12:46,000 --> 00:12:51,320
+So the complex algebra reappears purely as real geometric matrix operations.
+
+232
+00:12:52,020 --> 00:12:54,520
+The geometry is finally uncompressed and visible.
+
+233
+00:12:54,660 --> 00:12:55,740
+We can see the flag turning.
+
+234
+00:12:55,900 --> 00:12:56,320
+Exactly.
+
+235
+00:12:56,640 --> 00:13:00,260
+But the sources note that this introduces a massive new tension, right?
+
+236
+00:13:00,780 --> 00:13:08,620
+When you do this uncompressing, especially when you start looking at composite systems, like multiple quantum particles interacting and entangling with each other,
+
+237
+00:13:08,900 --> 00:13:12,660
+this expanded real number space requires way more parameters.
+
+238
+00:13:12,900 --> 00:13:13,440
+It does.
+
+239
+00:13:13,440 --> 00:13:14,740
+Because the math suddenly balloons.
+
+240
+00:13:14,980 --> 00:13:15,180
+Right.
+
+241
+00:13:15,620 --> 00:13:21,980
+A complex space might require eight parameters to describe a system, but this uncompressed real space requires 16 parameters.
+
+242
+00:13:22,080 --> 00:13:22,600
+Yeah, it doubles.
+
+243
+00:13:22,980 --> 00:13:24,940
+Which leads to my biggest question about this whole theory.
+
+244
+00:13:25,420 --> 00:13:27,740
+What does this actually mean for reality?
+
+245
+00:13:28,640 --> 00:13:35,660
+If uncompressing the math suddenly creates states and dimensions that don't actually exist in the laboratory, like things we can never measure,
+
+246
+00:13:36,320 --> 00:13:38,480
+aren't we just confusing our map for the territory?
+
+247
+00:13:38,480 --> 00:13:44,960
+We've built this highly detailed map, but it's showing 16 roads when the real world only has eight.
+
+248
+00:13:45,080 --> 00:13:49,720
+That is the crucial defining question of this entire section, really.
+
+249
+00:13:50,140 --> 00:13:52,960
+And it brings us to the concept of the admissibility quotient.
+
+250
+00:13:53,660 --> 00:13:58,100
+You are completely right that the flag space math creates states that look mathematically distinct on paper,
+
+251
+00:13:58,280 --> 00:14:02,560
+but are totally indistinguishable to any physical measuring device in a lab.
+
+252
+00:14:02,560 --> 00:14:03,020
+Right.
+
+253
+00:14:03,100 --> 00:14:05,760
+They look different in the math, but act the same in reality.
+
+254
+00:14:05,900 --> 00:14:06,200
+Exactly.
+
+255
+00:14:06,660 --> 00:14:09,640
+And fliction recognizes this over-parameterization.
+
+256
+00:14:10,380 --> 00:14:13,080
+The solution is that we have to mathematically quotient,
+
+257
+00:14:13,540 --> 00:14:16,700
+which basically just means filter out those representational artifacts.
+
+258
+00:14:16,860 --> 00:14:17,360
+Filter them out.
+
+259
+00:14:17,540 --> 00:14:17,780
+Yeah.
+
+260
+00:14:17,900 --> 00:14:21,160
+We look at all these overlapping mathematical descriptions on our detailed map
+
+261
+00:14:21,160 --> 00:14:24,620
+and deliberately group together the ones that behave identically in reality.
+
+262
+00:14:24,920 --> 00:14:28,100
+So we filter out the noise of our own mathematical language.
+
+263
+00:14:28,100 --> 00:14:28,580
+Yes.
+
+264
+00:14:29,160 --> 00:14:34,940
+And consider the underlying philosophical claim here, which Fliction calls witness invariance.
+
+265
+00:14:35,420 --> 00:14:38,300
+Reality is what persists across different representations.
+
+266
+00:14:38,720 --> 00:14:39,100
+Witness invariance.
+
+267
+00:14:39,780 --> 00:14:39,960
+Right.
+
+268
+00:14:40,220 --> 00:14:44,340
+If two quantum states look completely different in our flag space equation,
+
+269
+00:14:44,840 --> 00:14:48,400
+but they yield the exact same physical measurement in a detector,
+
+270
+00:14:48,980 --> 00:14:53,220
+what Fliction calls an admissible witness, then they are physically identical.
+
+271
+00:14:53,680 --> 00:14:54,200
+Okay.
+
+272
+00:14:54,400 --> 00:14:55,060
+I'm getting it.
+
+273
+00:14:55,060 --> 00:15:00,160
+The standard complex numbers and Fliction's real flag space are really just two different
+
+274
+00:15:00,160 --> 00:15:04,340
+mathematical nets draped over the exact same invariant physical reality.
+
+275
+00:15:04,540 --> 00:15:06,440
+So the map is not the territory.
+
+276
+00:15:07,060 --> 00:15:11,780
+The ontology, the actual true nature of reality, belongs only to the invariant structure.
+
+277
+00:15:12,040 --> 00:15:15,480
+It's the thing that survives no matter what math you use to describe it.
+
+278
+00:15:15,500 --> 00:15:15,940
+Exactly.
+
+279
+00:15:15,940 --> 00:15:21,100
+And that underlying structure, Fliction argues, is geometric rotation and scaling, the amplet whist.
+
+280
+00:15:21,220 --> 00:15:24,380
+So the quantum weirdness isn't a failure of our reality.
+
+281
+00:15:24,680 --> 00:15:28,700
+It's a byproduct of us forgetting that our algebra was just a shorthand for geometry.
+
+282
+00:15:29,060 --> 00:15:29,820
+Beautifully said.
+
+283
+00:15:30,100 --> 00:15:35,160
+By uncompressing it, we realize the universe isn't playing a game of abstract algebraic dice.
+
+284
+00:15:35,380 --> 00:15:38,080
+It is executing precise geometric rotations.
+
+285
+00:15:38,080 --> 00:15:43,980
+Okay, so that handles the abstract, invisible, microscopic quantum realm.
+
+286
+00:15:44,320 --> 00:15:48,940
+But it's one thing to say that subatomic math is secretly a geometric trick.
+
+287
+00:15:49,640 --> 00:15:59,360
+Where this deep dive gets truly mind-altering for me is when Fliction applies this exact same amplet whist framework to the macro world.
+
+288
+00:15:59,360 --> 00:16:01,900
+Oh yeah, this is where it gets really tangible.
+
+289
+00:16:02,220 --> 00:16:10,640
+You're going to leave the theoretical quantum realm and literally zoom into the silicon circuitry inside the phone or the laptop you're listening to this on right now.
+
+290
+00:16:10,660 --> 00:16:12,060
+Right, the stuff you can actually touch.
+
+291
+00:16:12,140 --> 00:16:12,520
+Exactly.
+
+292
+00:16:13,040 --> 00:16:16,880
+This is the domain of continuation geometry applied to electrical engineering.
+
+293
+00:16:17,140 --> 00:16:19,760
+We are looking at how circuits process energy and information.
+
+294
+00:16:20,360 --> 00:16:26,080
+And immediately, the source points out that the fundamental properties of circuits are, once again, amplet whist operators.
+
+295
+00:16:26,160 --> 00:16:27,140
+They are everywhere.
+
+296
+00:16:27,520 --> 00:16:28,540
+Let's talk about impedance.
+
+297
+00:16:28,540 --> 00:16:35,420
+Anyone who has ever bought a speaker or a pair of high-end headphones has seen an impedance rating, usually measured in ohms.
+
+298
+00:16:36,680 --> 00:16:40,780
+In standard circuit theory, impedance is just the relationship between voltage and current.
+
+299
+00:16:41,320 --> 00:16:42,840
+It resists the flow of electricity.
+
+300
+00:16:43,260 --> 00:16:49,360
+But Fliction proves that impedance is literally an amplet whist operator acting on the electrical current.
+
+301
+00:16:49,460 --> 00:16:52,320
+To see how that works physically, you have to look at alternating current.
+
+302
+00:16:52,940 --> 00:16:56,000
+Impedance isn't just a flat wall blocking electricity.
+
+303
+00:16:56,000 --> 00:17:00,480
+In an AC circuit, impedance actually has two distinct parts.
+
+304
+00:17:01,220 --> 00:17:04,540
+It has a magnitude, which scales the current up or down.
+
+305
+00:17:04,880 --> 00:17:10,240
+And it has a phase, which shifts or twists the timing of the current relative to the voltage.
+
+306
+00:17:10,400 --> 00:17:10,920
+Amplitude?
+
+307
+00:17:11,460 --> 00:17:12,300
+Amplitude and twist.
+
+308
+00:17:12,520 --> 00:17:17,940
+It is the exact same mathematical operator we saw in complex analysis with imaginary numbers.
+
+309
+00:17:17,940 --> 00:17:22,740
+But now it is physically manifested as a copper coil or a capacitor on a circuit board.
+
+310
+00:17:22,980 --> 00:17:23,780
+That is wild.
+
+311
+00:17:24,120 --> 00:17:30,640
+When electricity flows through the circuit board of your phone, it is literally being geometrically scaled and rotated by the components,
+
+312
+00:17:30,900 --> 00:17:36,680
+which leads to a brilliant geometric redefinition of something engineers talk about all the time, which is resonance.
+
+313
+00:17:36,680 --> 00:17:41,320
+Yeah, resonance is a great example. Standard engineering defines resonance in an RLC circuit.
+
+314
+00:17:41,320 --> 00:17:50,620
+That's a circuit with a resistor, an inductor, and a capacitor as the specific frequency where the inductive and capacitive reactances perfectly cancel each other out.
+
+315
+00:17:50,960 --> 00:17:55,480
+But in continuation geometry, what is resonance physically doing?
+
+316
+00:17:55,720 --> 00:18:00,360
+Resonance is simply the point where the twist of the operator vanishes entirely.
+
+317
+00:18:01,040 --> 00:18:01,800
+It just disappeared.
+
+318
+00:18:01,800 --> 00:18:08,120
+The operator stops rotating the current and only acts to scale it. It becomes an amplet with fixed point.
+
+319
+00:18:08,320 --> 00:18:17,440
+Okay, going back to our smartphone map analogy, it's like you're pinching to zoom, but for a split second, you stop twisting your wrist and you're only zooming straight in.
+
+320
+00:18:17,800 --> 00:18:19,840
+The geometric rotation falls to zero.
+
+321
+00:18:20,040 --> 00:18:20,540
+Precisely.
+
+322
+00:18:20,780 --> 00:18:26,560
+Because there is no twist, the system encounters the absolute minimum geometric resistance to continuation.
+
+323
+00:18:27,040 --> 00:18:31,420
+That is exactly why resonant tanks are used in oscillators and radios, you know.
+
+324
+00:18:31,800 --> 00:18:38,020
+The energy wants to continue, and a zero twist environment is the path of least geometric resistance.
+
+325
+00:18:38,380 --> 00:18:40,700
+So a resonance circuit is smooth and fully reversible.
+
+326
+00:18:41,000 --> 00:18:43,320
+The energy scales up, it scales down, it flows back and forth.
+
+327
+00:18:43,440 --> 00:18:43,580
+Yeah.
+
+328
+00:18:43,840 --> 00:18:46,380
+But reality isn't always smooth and reversible, is it?
+
+329
+00:18:46,460 --> 00:18:47,860
+Sometimes things crash into a wall.
+
+330
+00:18:47,920 --> 00:18:48,620
+Yeah, they do.
+
+331
+00:18:48,620 --> 00:18:50,400
+And this brings us to the diode.
+
+332
+00:18:51,000 --> 00:18:54,240
+This is where the physics of the circuit board becomes strictly irreversible.
+
+333
+00:18:54,800 --> 00:18:58,480
+An ideal diode is essentially a one-way valve for electricity.
+
+334
+00:18:58,880 --> 00:19:02,440
+It lets current flow forward, but perfectly blocks it from flowing backward.
+
+335
+00:19:02,620 --> 00:19:02,840
+Right.
+
+336
+00:19:03,240 --> 00:19:05,080
+Flicking, it gives us a fantastic name.
+
+337
+00:19:05,260 --> 00:19:07,640
+It's not just a switch, it's a sphere pop operator.
+
+338
+00:19:08,020 --> 00:19:10,680
+Specifically, it acts as a pop-refuse pair.
+
+339
+00:19:10,680 --> 00:19:14,840
+Let's break down exactly what that means geometrically, because it's important.
+
+340
+00:19:15,440 --> 00:19:19,940
+When the voltage is pushing forward, what we'd call the admissible direction, the diode
+
+341
+00:19:19,940 --> 00:19:21,020
+executes a pop.
+
+342
+00:19:21,160 --> 00:19:21,540
+A pop.
+
+343
+00:19:21,640 --> 00:19:21,820
+Yeah.
+
+344
+00:19:22,180 --> 00:19:26,740
+It evaluates the voltage, accepts it, and lets it flow through, maybe scaling it slightly
+
+345
+00:19:26,740 --> 00:19:29,480
+by whatever minor resistance the diode inherently has.
+
+346
+00:19:29,880 --> 00:19:34,560
+But when the voltage pushes backward, the inadmissible direction, the diode does not just scale
+
+347
+00:19:34,560 --> 00:19:35,140
+it or twist it.
+
+348
+00:19:35,420 --> 00:19:37,380
+It executes a refuse operation.
+
+349
+00:19:37,500 --> 00:19:38,380
+It refuses it.
+
+350
+00:19:38,380 --> 00:19:44,320
+It completely collapses all reverse voltage, no matter how strong it is, to a strict, uniform
+
+351
+00:19:44,320 --> 00:19:45,580
+null output.
+
+352
+00:19:46,200 --> 00:19:46,600
+Zero.
+
+353
+00:19:46,940 --> 00:19:49,940
+And this isn't just a quirky naming convention for a switch.
+
+354
+00:19:50,640 --> 00:19:56,020
+Fliction provides a rigorous mathematical proof here about rectification, which is the process
+
+355
+00:19:56,020 --> 00:20:01,000
+of turning alternating current, which goes back and forth, into direct current, which only
+
+356
+00:20:01,000 --> 00:20:01,680
+goes one way.
+
+357
+00:20:01,800 --> 00:20:02,120
+Right.
+
+358
+00:20:02,120 --> 00:20:04,900
+Think about the heavy power brick you use to charge your laptop.
+
+359
+00:20:05,780 --> 00:20:07,520
+That brick is a rectifier.
+
+360
+00:20:07,520 --> 00:20:10,980
+The proof in the source is stunning in its simplicity.
+
+361
+00:20:11,800 --> 00:20:15,200
+Fliction proves that no invertible function can ever rectify a signal.
+
+362
+00:20:15,460 --> 00:20:15,720
+Never.
+
+363
+00:20:16,000 --> 00:20:20,620
+If mathematical function is invertible, it means you can always work backward from the
+
+364
+00:20:20,620 --> 00:20:22,820
+output to figure out exactly what the input was.
+
+365
+00:20:23,360 --> 00:20:28,780
+But if you have a diode blocking reverse voltage and the output is zero, you have absolutely no
+
+366
+00:20:28,780 --> 00:20:33,660
+idea if the reverse voltage pushing against it was negative five volts or negative 50 volts
+
+367
+00:20:33,660 --> 00:20:34,980
+or negative 5,000 volts.
+
+368
+00:20:35,120 --> 00:20:36,000
+You can't work backward.
+
+369
+00:20:36,120 --> 00:20:36,520
+Exactly.
+
+370
+00:20:36,520 --> 00:20:41,640
+All of that highly distinct input information has been irreversibly murdered and collapsed
+
+371
+00:20:41,640 --> 00:20:42,440
+into a single output.
+
+372
+00:20:42,920 --> 00:20:43,520
+Zero.
+
+373
+00:20:43,520 --> 00:20:45,840
+The implication here is just profound.
+
+374
+00:20:46,740 --> 00:20:50,440
+Rectification fundamentally requires the destruction of information.
+
+375
+00:20:51,200 --> 00:20:55,460
+Irreversibility isn't just a clever engineering design choice to keep your battery safe.
+
+376
+00:20:55,700 --> 00:21:00,380
+It is a fundamental mathematical necessity to turn AC into DC power.
+
+377
+00:21:00,380 --> 00:21:07,400
+The diode introduces genuine, unrecoverable collapse into the geometric flow of the circuit.
+
+378
+00:21:07,800 --> 00:21:10,760
+Speaking of information and memory, let's talk about capacitors.
+
+379
+00:21:11,180 --> 00:21:15,140
+We usually think of a capacitor as like a little temporary battery on a circuit board.
+
+380
+00:21:15,260 --> 00:21:16,040
+It holds a charge.
+
+381
+00:21:16,560 --> 00:21:18,440
+We can measure its voltage with a multimeter.
+
+382
+00:21:18,940 --> 00:21:21,580
+And we call that measurement its state right now.
+
+383
+00:21:21,580 --> 00:21:22,020
+Right.
+
+384
+00:21:22,120 --> 00:21:24,020
+We treat it as an instantaneous state.
+
+385
+00:21:24,220 --> 00:21:28,200
+But fliction forces us to look much closer at what that state actually represents.
+
+386
+00:21:28,720 --> 00:21:33,900
+A capacitor's voltage at this exact second is mathematically an integral over its entire
+
+387
+00:21:33,900 --> 00:21:34,560
+history.
+
+388
+00:21:34,780 --> 00:21:37,480
+The current that flows into a capacitor doesn't just vanish.
+
+389
+00:21:37,660 --> 00:21:38,360
+It accumulates.
+
+390
+00:21:38,900 --> 00:21:43,720
+The voltage right now is a highly compressed, incredibly lossy summary of every single micro
+
+391
+00:21:43,720 --> 00:21:47,520
+fluctuation of current that has ever flowed through it since the device was turned on.
+
+392
+00:21:47,600 --> 00:21:49,460
+It's holding all that history but compressed.
+
+393
+00:21:49,920 --> 00:21:50,140
+Yeah.
+
+394
+00:21:50,140 --> 00:21:51,980
+I was trying to think of an analogy for this.
+
+395
+00:21:52,120 --> 00:21:57,600
+It's like clearing your internet browser history but only keeping a single counter of how many
+
+396
+00:21:57,600 --> 00:21:59,340
+times you've visited your favorite site.
+
+397
+00:21:59,720 --> 00:22:05,400
+The detailed moment-by-moment narrative of everywhere you clicked, how long you lingered on a page,
+
+398
+00:22:05,780 --> 00:22:08,880
+the order in which you read things, all of that is completely gone.
+
+399
+00:22:08,980 --> 00:22:09,620
+Gone forever.
+
+400
+00:22:09,780 --> 00:22:10,740
+The timeline is destroyed.
+
+401
+00:22:11,180 --> 00:22:12,920
+Only this heavily compressed summary.
+
+402
+00:22:13,700 --> 00:22:14,740
+The state counter remains.
+
+403
+00:22:14,740 --> 00:22:19,620
+The math term fliction uses for this is a non-injective functional, meaning,
+
+404
+00:22:19,620 --> 00:22:25,600
+an infinite number of completely different electrical histories could result in the exact same final
+
+405
+00:22:25,600 --> 00:22:26,080
+voltage.
+
+406
+00:22:26,080 --> 00:22:27,380
+Okay, give me an example of that.
+
+407
+00:22:27,460 --> 00:22:33,020
+Well, you could have a slow, steady trickle of electricity over an hour or a massive chaotic
+
+408
+00:22:33,020 --> 00:22:35,580
+spike followed by silence for 59 minutes.
+
+409
+00:22:35,780 --> 00:22:37,000
+The final state is the same.
+
+410
+00:22:37,180 --> 00:22:40,080
+The specific path, the narrative, is discarded.
+
+411
+00:22:40,540 --> 00:22:43,720
+And because the path is discarded, information is lost forever.
+
+412
+00:22:43,720 --> 00:22:48,740
+Which brings us to the ultimate cost of losing information, the logic gates that actually do
+
+413
+00:22:48,740 --> 00:22:49,960
+the thinking in our computers.
+
+414
+00:22:50,260 --> 00:22:54,460
+We are moving from analog power components to digital logic here.
+
+415
+00:22:54,620 --> 00:22:58,040
+Think about a standard AND gate in a computer processor.
+
+416
+00:22:58,680 --> 00:23:02,620
+It takes two inputs, say a one and a zero, and produces one output.
+
+417
+00:23:03,140 --> 00:23:05,380
+Like the diode, it is a pop operator.
+
+418
+00:23:05,860 --> 00:23:09,680
+It takes a bounded region of multiple inputs and collapses them into a single output.
+
+419
+00:23:09,680 --> 00:23:14,180
+Because it collapses two inputs into one, it fundamentally destroys information.
+
+420
+00:23:14,720 --> 00:23:19,820
+And fliction goes as far as to quantify exactly how much information is destroyed by these
+
+421
+00:23:19,820 --> 00:23:20,760
+geometric collapses.
+
+422
+00:23:21,380 --> 00:23:28,580
+If you assume all inputs are equally likely, an AND gate destroys approximately 1.189 bits
+
+423
+00:23:28,580 --> 00:23:30,680
+of information every single time it operates.
+
+424
+00:23:31,080 --> 00:23:35,560
+An XR gate, an exclusive OR gate, destroys exactly one bit of information.
+
+425
+00:23:35,840 --> 00:23:37,100
+So what does this all mean physically?
+
+426
+00:23:37,100 --> 00:23:42,700
+Like why should you, listening to this, care if an abstract logic gate destroys 1.189 bits
+
+427
+00:23:42,700 --> 00:23:43,880
+of mathematical information?
+
+428
+00:23:44,140 --> 00:23:45,640
+You care because of Landauer's bound.
+
+429
+00:23:46,000 --> 00:23:51,040
+In the 1960s, a physicist named Rolf Landauer proved that erasing information is not just
+
+430
+00:23:51,040 --> 00:23:52,220
+a mathematical abstraction.
+
+431
+00:23:52,840 --> 00:23:56,080
+It has an unavoidable thermodynamic cost in the physical universe.
+
+432
+00:23:56,200 --> 00:23:57,300
+A thermodynamic cost.
+
+433
+00:23:57,340 --> 00:23:57,640
+Yes.
+
+434
+00:23:57,780 --> 00:24:01,380
+Every time you erase a bit of information, you must dissipate a minimum amount of physical
+
+435
+00:24:01,380 --> 00:24:02,260
+heat into the environment.
+
+436
+00:24:02,260 --> 00:24:07,420
+So if you feel the bottom of your laptop right now, or the back of your phone if you've been
+
+437
+00:24:07,420 --> 00:24:10,320
+gaming on it, that heat burning your knees.
+
+438
+00:24:10,520 --> 00:24:17,120
+That heat is, in part, the literal thermodynamic exhaust of information being destroyed by the
+
+439
+00:24:17,120 --> 00:24:18,380
+logic gates in your CPU.
+
+440
+00:24:18,800 --> 00:24:20,440
+That is insane to think about.
+
+441
+00:24:20,620 --> 00:24:24,520
+And fliction takes this one step further, tying it back to the continuation geometry.
+
+442
+00:24:25,120 --> 00:24:27,720
+This dissipation of heat is fluctuation.
+
+443
+00:24:27,720 --> 00:24:31,420
+It manifests as Johnson-Nyquist thermal noise.
+
+444
+00:24:31,880 --> 00:24:37,200
+The very resistors that dissipate the heat also undergo microscopic thermal fluctuations,
+
+445
+00:24:37,780 --> 00:24:40,780
+creating electrical noise that pushes back against the signal.
+
+446
+00:24:41,020 --> 00:24:42,840
+So the universe demands a toll.
+
+447
+00:24:43,220 --> 00:24:44,680
+You want to make a logical decision.
+
+448
+00:24:45,040 --> 00:24:49,180
+You want to rectify an AC signal or run an AND gate to compute a spreadsheet.
+
+449
+00:24:49,620 --> 00:24:51,600
+You have to geometrically collapse the space.
+
+450
+00:24:51,820 --> 00:24:53,600
+You have to destroy the historical narrative.
+
+451
+00:24:53,600 --> 00:24:58,840
+And the universe forces you to pay for that destruction in the cold, hard currency of
+
+452
+00:24:58,840 --> 00:25:00,280
+thermodynamic heat and noise.
+
+453
+00:25:00,580 --> 00:25:04,140
+It's incredibly poetic, really, in a rigorous thermodynamic way.
+
+454
+00:25:04,340 --> 00:25:04,780
+It is.
+
+455
+00:25:05,080 --> 00:25:09,060
+But this naturally leads to the next massive leap in fliction's theory.
+
+456
+00:25:09,840 --> 00:25:15,660
+Because if this scaling and twisting is the unavoidable thermodynamic tax for processing
+
+457
+00:25:15,660 --> 00:25:21,800
+information in a silicon computer, the immediate question is, does the biological computer in
+
+458
+00:25:21,800 --> 00:25:24,200
+our skull have to pay that exact same tax?
+
+459
+00:25:24,340 --> 00:25:25,400
+Ah, yes.
+
+460
+00:25:25,820 --> 00:25:26,640
+The wetware.
+
+461
+00:25:26,720 --> 00:25:27,440
+The human brain.
+
+462
+00:25:27,440 --> 00:25:32,980
+The sources argue that the exact same geometric operations happening on a microchip are happening
+
+463
+00:25:32,980 --> 00:25:35,700
+inside your skull right now as you listen to my voice.
+
+464
+00:25:36,260 --> 00:25:40,380
+We have to look at the architecture of the brain to understand this, specifically the neocortex.
+
+465
+00:25:41,360 --> 00:25:45,380
+Neuroscientists have known for a long time that the cortex is organized into these vertical
+
+466
+00:25:45,380 --> 00:25:47,760
+stacked structures called cortical columns.
+
+467
+00:25:47,980 --> 00:25:48,080
+Right.
+
+468
+00:25:48,080 --> 00:25:52,720
+But there has been a longstanding, fierce debate about what a cortical column actually does.
+
+469
+00:25:52,780 --> 00:25:55,480
+Is it just a structural byproduct of how the brain grows?
+
+470
+00:25:55,620 --> 00:25:58,100
+Or is it a fundamental functional processing unit?
+
+471
+00:25:58,420 --> 00:26:00,920
+And Fliction drops a massive hypothesis here.
+
+472
+00:26:01,480 --> 00:26:04,440
+Cortical columns are local amplitwist operators.
+
+473
+00:26:05,040 --> 00:26:10,020
+Just like an impedance operator on a circuit board scales and twists electrical current, a cortical
+
+474
+00:26:10,020 --> 00:26:14,800
+column is a geometric operator that scales and rotates neurorepresentations of the world.
+
+475
+00:26:14,800 --> 00:26:20,460
+Okay, let's unpack this carefully, because bridging electrical engineering heat dissipation
+
+476
+00:26:20,460 --> 00:26:23,300
+to human thought is a huge conceptual leap.
+
+477
+00:26:23,660 --> 00:26:26,040
+How does the biological brain twist a thought?
+
+478
+00:26:26,560 --> 00:26:31,220
+To map this, we really need to bring in the full RSVP framework we mentioned at the start,
+
+479
+00:26:31,320 --> 00:26:33,520
+the relativistic scalar vector plenum.
+
+480
+00:26:33,580 --> 00:26:34,460
+Right, RSVP.
+
+481
+00:26:34,720 --> 00:26:40,180
+Applied to cognition, Fliction breaks the architecture of the mind down into three interacting fields.
+
+482
+00:26:40,180 --> 00:26:44,460
+First, you have the scalar field, denoted by the Greek letter phi.
+
+483
+00:26:44,880 --> 00:26:48,040
+This represents semantic salience, or the raw intensity of meaning.
+
+484
+00:26:48,620 --> 00:26:50,520
+How strongly does a concept resonate with you?
+
+485
+00:26:50,620 --> 00:26:53,260
+And that maps to the amplitude in our amplitwist, right?
+
+486
+00:26:53,560 --> 00:26:55,120
+The scaling up or down of signal.
+
+487
+00:26:55,480 --> 00:26:56,000
+Precisely.
+
+488
+00:26:56,500 --> 00:27:01,520
+Second, you have the vector field, denoted by a little v with an arrow over it.
+
+489
+00:27:01,880 --> 00:27:04,940
+This represents conceptual velocity, or the flow of attention.
+
+490
+00:27:05,400 --> 00:27:07,220
+Where is your mind moving in real time?
+
+491
+00:27:07,360 --> 00:27:09,360
+What concept is it being drawn toward next?
+
+492
+00:27:09,360 --> 00:27:12,600
+And that is the twist, the rotation through semantic space.
+
+493
+00:27:12,720 --> 00:27:12,940
+Yes.
+
+494
+00:27:13,600 --> 00:27:19,420
+Finally, the third field, which modulates the other two, the entropy field, denoted by S.
+
+495
+00:27:19,960 --> 00:27:25,060
+This represents cognitive uncertainty, the noise, the doubt.
+
+496
+00:27:25,280 --> 00:27:29,040
+The equivalent of that Johnson-Nyquist thermal heat in the computer chip,
+
+497
+00:27:29,220 --> 00:27:31,620
+but experienced biologically as confusion.
+
+498
+00:27:31,820 --> 00:27:32,440
+Exactly.
+
+499
+00:27:32,740 --> 00:27:39,100
+So my mind is a literal geometric field where cortical columns are constantly twisting my attention toward new concepts,
+
+500
+00:27:39,100 --> 00:27:44,460
+and scaling up the intensity of my thoughts, all while battling the thermodynamic entropy of confusion.
+
+501
+00:27:44,600 --> 00:27:45,380
+That's the model.
+
+502
+00:27:45,660 --> 00:27:47,620
+Let's walk through an example to really ground this.
+
+503
+00:27:48,100 --> 00:27:49,980
+Imagine I'm looking at an apple on a table.
+
+504
+00:27:50,240 --> 00:27:56,260
+In this RSVP framework, my visual cortex registers the shape, which sparks a semantic scalar field.
+
+505
+00:27:56,500 --> 00:27:58,140
+That's fey for the concept of apple.
+
+506
+00:27:58,520 --> 00:27:59,660
+It scales up in intensity.
+
+507
+00:27:59,740 --> 00:28:00,920
+Fey, you're recognizing it.
+
+508
+00:28:00,920 --> 00:28:02,600
+But then I realize I'm hungry.
+
+509
+00:28:03,560 --> 00:28:10,480
+My attention vector field, the V, twists my cognition from the pure visual concept of apple toward the action of eating.
+
+510
+00:28:11,080 --> 00:28:15,040
+My cortical columns are physically rotating the representation in my brain.
+
+511
+00:28:15,120 --> 00:28:16,420
+That is the exact mechanism.
+
+512
+00:28:16,760 --> 00:28:23,220
+And this leads to what might be Fliction's most provocative claim, a geometric definition of consciousness itself.
+
+513
+00:28:23,260 --> 00:28:23,900
+Oh, this is big.
+
+514
+00:28:23,900 --> 00:28:24,200
+Yeah.
+
+515
+00:28:24,600 --> 00:28:28,560
+Consciousness is not some magical, glowing substance secreted by the brain.
+
+516
+00:28:29,220 --> 00:28:33,000
+In this framework, consciousness emerges purely as a coherence tile.
+
+517
+00:28:33,160 --> 00:28:33,960
+A coherence tile.
+
+518
+00:28:34,060 --> 00:28:35,620
+What physically is that in the brain?
+
+519
+00:28:35,800 --> 00:28:38,980
+It is a critical phase transition in the alignment of these fields.
+
+520
+00:28:39,500 --> 00:28:45,440
+Imagine a region in your cortex where the entropy gradient, the uncertainty, the noise, suddenly drops low enough.
+
+521
+00:28:45,520 --> 00:28:45,760
+Yes.
+
+522
+00:28:45,760 --> 00:28:55,500
+When that noise clears, the semantic scalar field, the intensity of the apple concept, and the attention vector field, the drive to eat it, are able to perfectly align with each other.
+
+523
+00:28:55,580 --> 00:28:55,860
+Wow.
+
+524
+00:28:55,960 --> 00:28:59,040
+The amplet-wist operators in that specific region synchronize.
+
+525
+00:28:59,360 --> 00:29:03,000
+That stable, aligned region of the geometric field is a conscious state.
+
+526
+00:29:03,240 --> 00:29:03,580
+Wait, wait.
+
+527
+00:29:03,640 --> 00:29:06,480
+I really need to push back on this to make sure I'm not taking the metaphor too literally.
+
+528
+00:29:06,700 --> 00:29:06,960
+Go ahead.
+
+529
+00:29:06,960 --> 00:29:25,280
+If my brain is just twisting and scaling semantic fields, does that mean every single thought I have, like me deciding what to have for dinner, or you the listener understanding the words I am saying right now, is essentially a physical geometric trajectory.
+
+530
+00:29:25,520 --> 00:29:31,340
+Like a literal weather pattern of meaning moving across the physical surface of the cortex.
+
+531
+00:29:31,580 --> 00:29:33,760
+The sources argue that it is not a metaphor.
+
+532
+00:29:33,760 --> 00:29:39,080
+Your thoughts are literal geometric flows over a representational manifold.
+
+533
+00:29:39,500 --> 00:29:41,300
+That is, I mean, that's just incredible.
+
+534
+00:29:41,400 --> 00:29:46,360
+And what elevates this from philosophy to rigorous science is that this is a highly testable hypothesis.
+
+535
+00:29:47,200 --> 00:29:59,540
+Flixian predicts that if we use advanced neural recording techniques, like looking at population vectors in the prefrontal cortex during a task switching experiment, we shouldn't just see random neurons firing like a fireworks display.
+
+536
+00:29:59,720 --> 00:30:00,360
+What should we see?
+
+537
+00:30:00,360 --> 00:30:05,560
+We should be able to see literal mathematically perfect rotation-like trajectories in the data.
+
+538
+00:30:06,000 --> 00:30:08,160
+We should see the physical footprint of the twist.
+
+539
+00:30:08,800 --> 00:30:16,100
+We should literally see the brain mathematically rotating a concept in multidimensional space before it acts on it.
+
+540
+00:30:16,740 --> 00:30:22,380
+It unifies thermodynamics, field theory, and cognitive neuroscience under a single geometric rule.
+
+541
+00:30:22,460 --> 00:30:23,380
+Yes, exactly.
+
+542
+00:30:23,380 --> 00:30:35,880
+The exact same math that explains a resonant circuit on a motherboard, scaling and flowing without resistance, explains how your brain holds a clear conscious thought without a decaying into entropic noise.
+
+543
+00:30:35,980 --> 00:30:37,860
+It's all the same underlying framework.
+
+544
+00:30:38,160 --> 00:30:39,960
+My mind is officially blown by this.
+
+545
+00:30:40,640 --> 00:30:42,260
+But flixing still isn't done.
+
+546
+00:30:42,500 --> 00:30:43,540
+Not even close.
+
+547
+00:30:43,540 --> 00:30:56,900
+Because if individual human brains operate via this amplisk geometry, paying the thermodynamic toll to process meaning, what happens when you take billions of these twisting, scaling brains and network them together over thousands of years?
+
+548
+00:30:57,080 --> 00:30:59,160
+What does the geometry of human culture look like?
+
+549
+00:30:59,200 --> 00:31:00,260
+Right, the macro scale.
+
+550
+00:31:00,260 --> 00:31:04,780
+This brings us to the final major application in the sources, which is ampelist cascades.
+
+551
+00:31:05,560 --> 00:31:13,320
+We are scaling up from the individual biological cortex to the macroevolution of human society, language, and the urgent frontier of artificial intelligence.
+
+552
+00:31:13,320 --> 00:31:18,200
+The sources model cultural and semantic evolution as recursive geometric layers.
+
+553
+00:31:18,440 --> 00:31:22,120
+They use a fancy script R to denote these cascading layers.
+
+554
+00:31:22,440 --> 00:31:29,040
+And they break down the evolution of human language into three distinct measurable geometric deformations.
+
+555
+00:31:29,040 --> 00:31:30,240
+Okay, let's go through these.
+
+556
+00:31:30,520 --> 00:31:33,360
+Think of it like geological strata, but for human meaning.
+
+557
+00:31:34,340 --> 00:31:36,980
+The first layer, R1, is phonetic drift.
+
+558
+00:31:37,660 --> 00:31:40,420
+Flixing describes this as a vowel shift generator.
+
+559
+00:31:40,920 --> 00:31:43,720
+Let's spend some time on this because it's a massive aha moment for me.
+
+560
+00:31:44,540 --> 00:31:46,080
+Take the great vowel shift in English.
+
+561
+00:31:46,960 --> 00:31:50,480
+Over a few centuries, the physical sounds a culture makes slowly deform.
+
+562
+00:31:51,320 --> 00:31:55,400
+Words that used to be pronounced one way slowly slide to a different pronunciation.
+
+563
+00:31:55,700 --> 00:31:57,340
+Right, language naturally changes.
+
+564
+00:31:57,340 --> 00:31:59,640
+But Flixing isn't just saying this happens.
+
+565
+00:31:59,820 --> 00:32:05,540
+He is saying this drift is a physical, measurable geometric rotation in the phonetic space of the culture.
+
+566
+00:32:06,620 --> 00:32:10,620
+The collective mouth shape of a society is literally twisting over generations.
+
+567
+00:32:10,880 --> 00:32:11,520
+It's fascinating.
+
+568
+00:32:11,720 --> 00:32:15,420
+And moving up to the next layer, you have R2, which is grammaticalization.
+
+569
+00:32:15,920 --> 00:32:18,300
+The source calls it the aspect to tense mapping.
+
+570
+00:32:18,480 --> 00:32:19,300
+Okay, how does that work?
+
+571
+00:32:19,300 --> 00:32:31,160
+This is where a language takes a concept of how an action happens, its aspect, like whether an action is ongoing or completed, and geometrically twists it into a rigid grammatical rule about when it happens.
+
+572
+00:32:31,440 --> 00:32:34,000
+It's tense, past, present, or future.
+
+573
+00:32:34,660 --> 00:32:38,680
+It is a structural scaling and rotation of the culture's grammar itself.
+
+574
+00:32:38,680 --> 00:32:44,460
+And finally, we hit R3, semantic bleaching, or metaphor decay.
+
+575
+00:32:45,000 --> 00:32:50,320
+This is when a word that used to have a vivid, intense meaning gets scaled down by the society over time.
+
+576
+00:32:50,720 --> 00:32:54,180
+Its amplitude drops until it becomes a generic grammatical particle.
+
+577
+00:32:54,380 --> 00:32:56,480
+A perfect example of this is the word terrible.
+
+578
+00:32:56,620 --> 00:32:56,960
+Right.
+
+579
+00:32:56,960 --> 00:33:02,020
+Centuries ago, if you said something was terrible, you meant it inspired literal, paralyzing terror.
+
+580
+00:33:02,160 --> 00:33:03,460
+It was a high-amplitude word.
+
+581
+00:33:03,540 --> 00:33:04,360
+You'd run away from it.
+
+582
+00:33:04,560 --> 00:33:04,920
+Exactly.
+
+583
+00:33:05,360 --> 00:33:07,740
+Today, you say, I had a terrible sandwich for lunch.
+
+584
+00:33:08,120 --> 00:33:12,420
+The semantic meaning has been geometrically scaled down bleached until it just means bad.
+
+585
+00:33:12,860 --> 00:33:17,360
+So Flexin is providing a rigorous mathematical lingua franca for the humanities.
+
+586
+00:33:17,360 --> 00:33:25,920
+The sources define cultural curvature as a literal, calculable measurement of how much a society's semantic meaning diverges from its origin point.
+
+587
+00:33:25,920 --> 00:33:27,240
+Cultural curvature.
+
+588
+00:33:27,760 --> 00:33:28,040
+Yes.
+
+589
+00:33:28,320 --> 00:33:39,380
+And they introduced the concept of cognitive temperature based directly on those entropy weights we discussed in the brain to model how volatile or stable a cultural attractor is over time.
+
+590
+00:33:39,380 --> 00:33:54,260
+So the rise and fall of an empire, the evolution of Proto-Indo-European into modern English, the spread of a viral meme on the internet, all of it can be graphed as a cascade of amplitwist fields experiencing thermodynamic entropy.
+
+591
+00:33:54,260 --> 00:34:00,040
+It gives us a way to mathematically quantify the robustness of a society's belief system.
+
+592
+00:34:00,300 --> 00:34:03,320
+Which is incredibly relevant for the technology we are building right now.
+
+593
+00:34:03,320 --> 00:34:03,980
+Oh, absolutely.
+
+594
+00:34:04,180 --> 00:34:13,640
+Because the source explicitly applies this amplitwist cascade theory to AI alignment, specifically for large language models like the ones generating text today.
+
+595
+00:34:13,800 --> 00:34:18,020
+The alignment problem is arguably the most pressing existential issue in computer science right now.
+
+596
+00:34:18,020 --> 00:34:23,840
+I mean, how do we ensure that an AI's goals and reasoning processes actually match human values and don't pose a threat?
+
+597
+00:34:24,080 --> 00:34:24,220
+Right.
+
+598
+00:34:24,700 --> 00:34:29,320
+Flixion proposes an entirely new approach to solving this, an amplitwist loss function.
+
+599
+00:34:29,680 --> 00:34:38,100
+Basically, the current paradigm of AI training just checks if the AI spits out the right text or gives the correct answer to a prompt.
+
+600
+00:34:38,100 --> 00:34:40,640
+But Flixion says that isn't enough.
+
+601
+00:34:40,900 --> 00:34:41,520
+Not at all.
+
+602
+00:34:41,520 --> 00:34:50,740
+It's about whether the hidden, multidimensional geometric shape of the AI's reasoning matches the geometric shape of human epistemic dynamics.
+
+603
+00:34:50,920 --> 00:34:52,680
+Consider the danger if we ignore this.
+
+604
+00:34:53,040 --> 00:35:00,120
+If the AI arrives at the correct answer, but its internal semantic field is twisted 90 degrees away from the human semantic field,
+
+605
+00:35:00,620 --> 00:35:06,900
+if its geometry is fundamentally alien, we have a massive alignment problem waiting to explode.
+
+606
+00:35:06,900 --> 00:35:11,800
+The AI might do the right thing today, but when it encounters a novel situation,
+
+607
+00:35:12,320 --> 00:35:18,320
+that 90-degree twist will send its decision-making rocketing off in a direction totally incompatible with human survival.
+
+608
+00:35:18,460 --> 00:35:21,320
+It's like the AI is perfectly mimicking our language on the surface,
+
+609
+00:35:21,680 --> 00:35:25,620
+but the geometry of its mind is operating on a completely different mathematical manifold.
+
+610
+00:35:25,980 --> 00:35:31,760
+Flixion's loss function gives engineers a mathematical tool to measure that exact misalignment during training
+
+611
+00:35:31,760 --> 00:35:38,480
+and theoretically force the AI's geometric cascade to align perfectly with the human R-layers.
+
+612
+00:35:39,020 --> 00:35:43,220
+It forces the AI not just to sound human, but to geometrically think human.
+
+613
+00:35:43,380 --> 00:35:45,880
+It's a completely novel way to tackle the problem.
+
+614
+00:35:45,980 --> 00:35:47,260
+Okay, I need to take a long breath.
+
+615
+00:35:47,500 --> 00:35:51,600
+Let's try to pull this massive sprawling theory all together for you, the listener.
+
+616
+00:35:51,600 --> 00:35:56,020
+We started with a transcriber misreading a handwritten math symbol.
+
+617
+00:35:56,720 --> 00:36:04,960
+We uncovered a meticulous insistence that math must distinguish between casual approximations and true infinitesimal geometric alignment.
+
+618
+00:36:05,220 --> 00:36:09,620
+And from there, we saw that complex numbers aren't abstract mathematical hacks.
+
+619
+00:36:09,840 --> 00:36:15,640
+They are unsquared numbers, literal geometric operators that simultaneously scale and twist space.
+
+620
+00:36:15,640 --> 00:36:22,900
+We took that amplit-wist into the subatomic quantum realm, stripping away the complex algebra to reveal an uncompressed real flag space,
+
+621
+00:36:23,240 --> 00:36:27,000
+where the weirdness of quantum mechanics is just an artifact of our coordinate systems.
+
+622
+00:36:27,160 --> 00:36:31,320
+Right, and reality is whatever invariant structure survives the admissibility quotient.
+
+623
+00:36:31,580 --> 00:36:36,680
+We scaled up to the macro world of a circuit board, proving that impotence is an amplit-wist operator,
+
+624
+00:36:37,220 --> 00:36:39,380
+resonance is the zero-twist fixed point,
+
+625
+00:36:39,380 --> 00:36:45,800
+and the diode proves that rectification demands the irreversible thermodynamic destruction of information.
+
+626
+00:36:46,440 --> 00:36:49,060
+We saw that capacitors aren't just holding a static state.
+
+627
+00:36:49,380 --> 00:36:52,160
+They are highly lossy compressions of a timeline's history,
+
+628
+00:36:52,440 --> 00:36:54,720
+and logic gates murder information,
+
+629
+00:36:55,120 --> 00:36:59,100
+bleeding it out onto your lap as thermodynamic heat and Johnson-Nyquist noise.
+
+630
+00:36:59,820 --> 00:37:04,260
+We moved into biology, where cortical columns act as those same geometric operators,
+
+631
+00:37:04,700 --> 00:37:07,260
+aligning the fields of meaning, attention, and entropy
+
+632
+00:37:07,260 --> 00:37:11,560
+into the coherent phase transitions we experience every day as consciousness.
+
+633
+00:37:11,820 --> 00:37:17,580
+And finally, we watched that exact same geometric engine scale up to the societal evolution of human language,
+
+634
+00:37:17,780 --> 00:37:21,580
+vowel shifts, and the urgent frontier of aligning artificial intelligence.
+
+635
+00:37:21,940 --> 00:37:26,600
+Fliction is arguing that it is all from the absolute subatomic bottom to the societal top,
+
+636
+00:37:26,960 --> 00:37:27,980
+continuation geometry.
+
+637
+00:37:28,240 --> 00:37:29,400
+It is all the amplit-wist.
+
+638
+00:37:29,740 --> 00:37:35,420
+Reality is just the universe constantly scaling, flowing, and twisting itself into new admissible states,
+
+639
+00:37:35,420 --> 00:37:39,820
+fighting every step of the way against the relentless thermodynamic pull of entropy.
+
+640
+00:37:40,160 --> 00:37:42,120
+Ultimately, this matters to you directly.
+
+641
+00:37:42,400 --> 00:37:46,460
+It offers a totally unified, incredibly beautiful lens of reality.
+
+642
+00:37:46,640 --> 00:37:46,760
+Yeah.
+
+643
+00:37:47,000 --> 00:37:52,540
+You aren't just living in a fractured world of disconnected disciplines physics over here in a lab.
+
+644
+00:37:52,700 --> 00:37:54,920
+Your hot smartphone over there on your desk,
+
+645
+00:37:55,240 --> 00:37:58,000
+your cultural heritage locked in a museum somewhere else,
+
+646
+00:37:58,000 --> 00:38:03,540
+you are an active biological participant in a continuous geometric flow.
+
+647
+00:38:03,740 --> 00:38:08,140
+Every single time you try to communicate a difficult idea to a friend,
+
+648
+00:38:08,260 --> 00:38:10,900
+every time you try to overcome the entropy of your own confusion,
+
+649
+00:38:11,360 --> 00:38:14,920
+every time your phone processes a logical command and warms your hand,
+
+650
+00:38:15,480 --> 00:38:21,200
+you are navigating the exact same fundamental forces of admissibility, scaling, and torsion.
+
+651
+00:38:21,660 --> 00:38:23,040
+You are part of the geometry.
+
+652
+00:38:23,360 --> 00:38:23,920
+Well said.
+
+653
+00:38:24,060 --> 00:38:25,780
+It is a breathtaking way to look at the world.
+
+654
+00:38:25,780 --> 00:38:29,360
+It means that when you twist your fingers on your phone screen to zoom in on a map,
+
+655
+00:38:29,780 --> 00:38:33,980
+you are quite literally pantomiming the fundamental source code of the cosmos.
+
+656
+00:38:34,380 --> 00:38:36,700
+But I want to leave you with one final thought to mull over.
+
+657
+00:38:37,160 --> 00:38:38,380
+Something to keep you awake tonight.
+
+658
+00:38:38,620 --> 00:38:39,540
+Oh, this should be good.
+
+659
+00:38:39,800 --> 00:38:44,520
+If absolutely everything, from the quantum particles vibrating in your cells,
+
+660
+00:38:44,780 --> 00:38:47,780
+to the silicon logic gates dissipating heat in your devices,
+
+661
+00:38:48,400 --> 00:38:50,500
+to the neural columns firing in your brain,
+
+662
+00:38:50,560 --> 00:38:53,420
+to the very language you are using to understand my voice right now,
+
+663
+00:38:53,420 --> 00:38:56,980
+if all of it is just a series of geometric twists and scales,
+
+664
+00:38:57,620 --> 00:39:00,840
+what is the underlying space that is actually being twisted?
+
+665
+00:39:01,380 --> 00:39:02,520
+We'll leave you to think about that one.
+
